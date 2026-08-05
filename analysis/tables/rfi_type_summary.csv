@@ -1,0 +1,8 @@
+﻿RFI_Type,RFI_Count,Avg_Response_Days,On_Time_Rate_Pct,Overdue_Open_Count,RFI_to_Change_Rate_Pct,Cost_Impacted_Count,Schedule_Impacted_Count,Actual_Cost_Impact,Actual_Schedule_Days
+Coordination Conflict,757,12.32,46.9,78,18.9,191,136,8225100.0,533
+Design Clarification,872,12.21,47.3,79,13.3,156,117,6777000.0,449
+Missing Information,478,12.25,42.9,46,18.0,111,85,4057500.0,525
+Constructability,404,11.76,45.9,36,16.3,86,63,3651100.0,269
+Field Condition,386,12.12,44.0,25,21.0,111,91,3559900.0,494
+Substitution Request,259,12.65,42.2,20,19.7,58,45,2436100.0,211
+Code Compliance,162,12.31,48.3,11,16.0,33,25,901800.0,91

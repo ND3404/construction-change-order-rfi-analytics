@@ -1,0 +1,10 @@
+﻿Change_Category,Change_Count,Approved_Count,Pending_Count,Approved_Value,Pending_Exposure,Avg_Approval_Days,Approved_Schedule_Days,Linked_Change_Count,Avg_Forecast_Lag_Days
+Owner-Directed Change,198,126,41,44093100.0,22849000.0,32.33,454,46,7.28
+Design Error or Omission,197,118,41,40302400.0,14907000.0,32.92,216,135,6.32
+Unforeseen Condition,168,108,29,39882000.0,17020000.0,28.41,275,114,6.9
+Code or Regulatory Requirement,78,54,10,16442100.0,6094000.0,31.96,66,37,6.32
+Substitution,94,60,22,14284000.0,6963000.0,25.77,81,51,6.47
+Value Engineering,93,62,19,13922100.0,5604000.0,24.6,149,37,5.55
+Schedule Acceleration,78,49,15,13904000.0,2254000.0,30.04,119,41,5.72
+Quantity Variation,106,65,19,11806400.0,6831000.0,23.74,119,55,7.9
+Scope Clarification,107,64,25,9932200.0,5582000.0,24.53,59,61,5.9

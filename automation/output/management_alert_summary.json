@@ -1,0 +1,17 @@
+{
+  "Data_Cutoff": "2025-12-31",
+  "Alert_Count": 773,
+  "By_Severity": {
+    "Critical": 199,
+    "High": 574
+  },
+  "By_Type": {
+    "Field-Impact Overdue RFI": 71,
+    "High/Critical Overdue RFI": 84,
+    "Red Project": 29,
+    "High Pending Exposure": 15,
+    "Approved Not Incorporated": 56,
+    "Forecast Incorporation Lag": 299,
+    "Old Pending Change": 219
+  }
+}

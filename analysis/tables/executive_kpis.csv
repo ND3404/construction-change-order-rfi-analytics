@@ -1,0 +1,21 @@
+﻿KPI,Value,Unit
+Projects,90,count
+RFIs,3318,count
+Average RFI response,12.21,days
+Median RFI response,10,days
+RFI on-time rate,45.68,percent
+Open RFIs,299,count
+Overdue open RFIs,295,count
+RFI-to-change conversion,17.15,percent
+RFI actual cost impact,29608500.0,USD
+RFI actual schedule impact,2572,days
+Change orders,1119,count
+Approved changes,706,count
+Approved change value,204568300.0,USD
+Pending change exposure,88104000.0,USD absolute
+Average approval cycle,28.91,days
+Median approval cycle,25.0,days
+Old pending changes >35 days,219,count
+Average forecast incorporation lag,6.58,days
+Linked approved change value,113056700.0,USD unique changes
+Median RFI-to-change identification lag,47,days

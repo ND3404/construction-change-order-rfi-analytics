@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this repository if you use its synthetic data, code, or documentation."
+title: "Construction Change Order and RFI Analytics"
+type: software
+authors:
+  - family-names: "Dickson"
+    given-names: "Narciso M."
+repository-code: "https://github.com/ND3404/construction-change-order-rfi-analytics"
+url: "https://github.com/ND3404/construction-change-order-rfi-analytics"
+version: "1.0.0"
+date-released: "2026-08-04"
+license: MIT

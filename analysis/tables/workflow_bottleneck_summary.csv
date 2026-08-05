@@ -1,0 +1,24 @@
+﻿Item_Type,To_Status,Assigned_To_Role,Event_Count,Avg_Stage_Days,Total_Stage_Days,Handoff_Count,Revision_Loop_Count
+Change Order,Approved,Project Manager,706,20.31,14335.35,706,0
+RFI,Closed,Subcontractor,948,9.93,9411.6,756,0
+RFI,Closed,General Contractor,925,9.57,8854.16,696,0
+Change Order,Returned for Revision,Cost Manager,512,16.7,8552.62,511,512
+Change Order,Submitted,Owner Representative,1117,7.03,7850.68,1117,0
+RFI,Returned for Clarification,General Contractor,344,11.95,4109.42,344,344
+RFI,Returned for Clarification,Subcontractor,308,10.86,3345.12,308,308
+RFI,Answered,General Contractor,350,9.48,3319.07,267,0
+Change Order,Rejected,Project Manager,113,28.89,3264.7,113,0
+RFI,Answered,Subcontractor,337,9.64,3247.93,257,0
+RFI,Closed,Construction Manager,332,9.75,3235.64,229,0
+Change Order,Pending,Project Manager,220,14.03,3086.36,220,0
+Change Order,Withdrawn,Project Manager,79,22.33,1763.96,79,0
+RFI,Returned for Clarification,Construction Manager,134,11.01,1475.78,119,134
+RFI,Answered,Construction Manager,127,9.64,1224.9,81,0
+RFI,In Review,Engineer,54,7.41,400.18,4,0
+RFI,Awaiting Designer,Engineer,39,7.69,299.81,6,0
+RFI,Open,Engineer,30,7.41,222.43,7,0
+RFI,Returned for Clarification,Engineer,24,8.06,193.49,3,24
+RFI,Awaiting Owner,Engineer,28,5.93,166.17,7,0
+RFI,Awaiting Owner,Architect,13,8.79,114.27,2,0
+RFI,In Review,Architect,16,7.1,113.66,2,0
+RFI,Awaiting Designer,Owner Representative,11,6.64,73.01,2,0

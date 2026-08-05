@@ -1,0 +1,678 @@
+﻿Link_ID,Project_ID,RFI_ID,Change_Order_ID,Link_Type,Link_Confidence,Relationship_Date,Relationship_Notes_Category
+LNK-00001,PRJ-001,RFI-00025,CO-00004,Supporting Documentation,Medium,2024-10-25,Field condition documented by RFI
+LNK-00002,PRJ-001,RFI-00009,CO-00006,Direct Cause,Medium,2024-04-28,Field condition documented by RFI
+LNK-00003,PRJ-001,RFI-00016,CO-00008,Direct Cause,High,2025-02-08,Pricing support
+LNK-00004,PRJ-001,RFI-00010,CO-00009,Related Scope,Medium,2025-02-02,Field condition documented by RFI
+LNK-00005,PRJ-001,RFI-00007,CO-00013,Related Scope,Medium,2024-09-28,Related coordination issue
+LNK-00006,PRJ-001,RFI-00021,CO-00014,Related Scope,Low,2024-12-03,Design clarification led to scope change
+LNK-00007,PRJ-002,RFI-00037,CO-00018,Direct Cause,High,2023-04-04,Related coordination issue
+LNK-00008,PRJ-002,RFI-00039,CO-00020,Supporting Documentation,Medium,2023-07-30,Pricing support
+LNK-00009,PRJ-002,RFI-00043,CO-00022,Direct Cause,High,2023-10-11,Field condition documented by RFI
+LNK-00010,PRJ-002,RFI-00058,CO-00023,Direct Cause,Medium,2023-02-16,Design clarification led to scope change
+LNK-00011,PRJ-002,RFI-00076,CO-00024,Supporting Documentation,Medium,2022-06-29,Schedule support
+LNK-00012,PRJ-002,RFI-00033,CO-00025,Direct Cause,High,2023-11-02,Design clarification led to scope change
+LNK-00013,PRJ-002,RFI-00071,CO-00026,Direct Cause,High,2023-03-07,Pricing support
+LNK-00014,PRJ-002,RFI-00063,CO-00027,Supporting Documentation,Medium,2022-08-04,Pricing support
+LNK-00015,PRJ-002,RFI-00089,CO-00028,Direct Cause,High,2023-10-14,Pricing support
+LNK-00016,PRJ-002,RFI-00078,CO-00030,Supporting Documentation,High,2022-03-18,Schedule support
+LNK-00017,PRJ-003,RFI-00113,CO-00033,Direct Cause,High,2022-06-28,Design clarification led to scope change
+LNK-00018,PRJ-003,RFI-00096,CO-00036,Related Scope,High,2023-05-31,Schedule support
+LNK-00019,PRJ-003,RFI-00105,CO-00039,Supporting Documentation,High,2023-06-23,Pricing support
+LNK-00020,PRJ-003,RFI-00116,CO-00040,Direct Cause,Medium,2023-08-04,Pricing support
+LNK-00021,PRJ-003,RFI-00105,CO-00041,Direct Cause,Medium,2023-06-11,Related coordination issue
+LNK-00022,PRJ-004,RFI-00129,CO-00042,Related Scope,Low,2025-11-16,Design clarification led to scope change
+LNK-00023,PRJ-004,RFI-00146,CO-00043,Supporting Documentation,Low,2025-03-22,Pricing support
+LNK-00024,PRJ-004,RFI-00130,CO-00044,Potential Relationship,High,2025-06-10,Design clarification led to scope change
+LNK-00025,PRJ-004,RFI-00151,CO-00045,Related Scope,High,2024-10-19,Schedule support
+LNK-00026,PRJ-004,RFI-00138,CO-00048,Direct Cause,High,2024-06-15,Pricing support
+LNK-00027,PRJ-004,RFI-00127,CO-00050,Direct Cause,High,2025-01-11,Schedule support
+LNK-00028,PRJ-005,RFI-00163,CO-00055,Supporting Documentation,Medium,2024-06-22,Field condition documented by RFI
+LNK-00029,PRJ-005,RFI-00177,CO-00056,Related Scope,Medium,2023-10-20,Design clarification led to scope change
+LNK-00030,PRJ-005,RFI-00175,CO-00057,Direct Cause,Medium,2024-07-23,Related coordination issue
+LNK-00031,PRJ-005,RFI-00154,CO-00058,Direct Cause,High,2024-03-22,Design clarification led to scope change
+LNK-00032,PRJ-005,RFI-00162,CO-00059,Direct Cause,High,2025-10-18,Schedule support
+LNK-00033,PRJ-006,RFI-00194,CO-00063,Direct Cause,Low,2023-01-02,Field condition documented by RFI
+LNK-00034,PRJ-006,RFI-00214,CO-00067,Direct Cause,Medium,2024-04-11,Design clarification led to scope change
+LNK-00035,PRJ-006,RFI-00198,CO-00069,Related Scope,High,2022-04-03,Design clarification led to scope change
+LNK-00036,PRJ-006,RFI-00216,CO-00071,Direct Cause,Medium,2024-09-04,Field condition documented by RFI
+LNK-00037,PRJ-007,RFI-00256,CO-00076,Supporting Documentation,High,2025-04-01,Field condition documented by RFI
+LNK-00038,PRJ-007,RFI-00238,CO-00078,Supporting Documentation,Medium,2025-01-08,Pricing support
+LNK-00039,PRJ-007,RFI-00223,CO-00080,Supporting Documentation,High,2025-02-02,Field condition documented by RFI
+LNK-00040,PRJ-008,RFI-00259,CO-00085,Supporting Documentation,High,2022-06-28,Related coordination issue
+LNK-00041,PRJ-008,RFI-00265,CO-00087,Supporting Documentation,Medium,2023-06-28,Field condition documented by RFI
+LNK-00042,PRJ-008,RFI-00262,CO-00088,Related Scope,Medium,2023-06-09,Pricing support
+LNK-00043,PRJ-008,RFI-00264,CO-00089,Direct Cause,High,2023-06-12,Design clarification led to scope change
+LNK-00044,PRJ-008,RFI-00277,CO-00090,Related Scope,Medium,2022-09-20,Pricing support
+LNK-00045,PRJ-008,RFI-00284,CO-00092,Supporting Documentation,Medium,2023-09-09,Schedule support
+LNK-00046,PRJ-008,RFI-00290,CO-00093,Related Scope,High,2022-05-23,Design clarification led to scope change
+LNK-00047,PRJ-008,RFI-00274,CO-00097,Supporting Documentation,Medium,2024-05-17,Design clarification led to scope change
+LNK-00048,PRJ-008,RFI-00281,CO-00099,Supporting Documentation,Medium,2022-10-08,Design clarification led to scope change
+LNK-00049,PRJ-008,RFI-00277,CO-00100,Supporting Documentation,Medium,2022-09-23,Pricing support
+LNK-00050,PRJ-008,RFI-00282,CO-00101,Supporting Documentation,Medium,2023-11-30,Design clarification led to scope change
+LNK-00051,PRJ-008,RFI-00281,CO-00103,Supporting Documentation,Medium,2022-12-19,Related coordination issue
+LNK-00052,PRJ-008,RFI-00262,CO-00104,Direct Cause,High,2023-07-07,Field condition documented by RFI
+LNK-00053,PRJ-009,RFI-00311,CO-00105,Related Scope,Medium,2023-08-20,Pricing support
+LNK-00054,PRJ-009,RFI-00312,CO-00106,Potential Relationship,Medium,2022-06-21,Schedule support
+LNK-00055,PRJ-009,RFI-00322,CO-00109,Direct Cause,Medium,2023-09-14,Field condition documented by RFI
+LNK-00056,PRJ-010,RFI-00333,CO-00116,Supporting Documentation,Low,2022-09-10,Field condition documented by RFI
+LNK-00057,PRJ-010,RFI-00344,CO-00117,Related Scope,Medium,2022-03-31,Pricing support
+LNK-00058,PRJ-010,RFI-00346,CO-00119,Related Scope,High,2023-11-18,Design clarification led to scope change
+LNK-00059,PRJ-010,RFI-00348,CO-00120,Related Scope,Low,2023-12-26,Schedule support
+LNK-00060,PRJ-011,RFI-00367,CO-00124,Direct Cause,High,2022-10-20,Schedule support
+LNK-00061,PRJ-011,RFI-00358,CO-00125,Related Scope,Medium,2022-09-15,Schedule support
+LNK-00062,PRJ-011,RFI-00380,CO-00132,Direct Cause,High,2022-02-25,Related coordination issue
+LNK-00063,PRJ-011,RFI-00360,CO-00135,Direct Cause,Medium,2023-05-22,Pricing support
+LNK-00064,PRJ-012,RFI-00415,CO-00139,Direct Cause,High,2025-11-21,Pricing support
+LNK-00065,PRJ-012,RFI-00434,CO-00146,Supporting Documentation,Medium,2024-08-02,Field condition documented by RFI
+LNK-00066,PRJ-012,RFI-00402,CO-00147,Direct Cause,Medium,2024-10-24,Field condition documented by RFI
+LNK-00067,PRJ-012,RFI-00429,CO-00149,Direct Cause,Medium,2025-01-09,Design clarification led to scope change
+LNK-00068,PRJ-013,RFI-00463,CO-00152,Direct Cause,Medium,2022-03-25,Schedule support
+LNK-00069,PRJ-013,RFI-00471,CO-00153,Related Scope,Medium,2022-11-30,Pricing support
+LNK-00070,PRJ-013,RFI-00457,CO-00158,Supporting Documentation,Medium,2023-06-13,Pricing support
+LNK-00071,PRJ-013,RFI-00460,CO-00159,Direct Cause,Medium,2022-09-29,Design clarification led to scope change
+LNK-00072,PRJ-013,RFI-00484,CO-00160,Direct Cause,High,2022-05-23,Design clarification led to scope change
+LNK-00073,PRJ-013,RFI-00477,CO-00161,Supporting Documentation,High,2024-01-08,Related coordination issue
+LNK-00074,PRJ-013,RFI-00447,CO-00162,Direct Cause,High,2022-05-24,Pricing support
+LNK-00075,PRJ-014,RFI-00493,CO-00168,Supporting Documentation,Medium,2024-06-13,Field condition documented by RFI
+LNK-00076,PRJ-014,RFI-00512,CO-00169,Supporting Documentation,Medium,2023-10-29,Field condition documented by RFI
+LNK-00077,PRJ-014,RFI-00492,CO-00170,Direct Cause,High,2024-10-01,Design clarification led to scope change
+LNK-00078,PRJ-014,RFI-00512,CO-00171,Direct Cause,High,2023-10-29,Design clarification led to scope change
+LNK-00079,PRJ-015,RFI-00528,CO-00173,Related Scope,High,2025-10-01,Field condition documented by RFI
+LNK-00080,PRJ-015,RFI-00534,CO-00174,Supporting Documentation,High,2024-06-09,Design clarification led to scope change
+LNK-00081,PRJ-015,RFI-00535,CO-00175,Potential Relationship,Medium,2024-12-05,Pricing support
+LNK-00082,PRJ-015,RFI-00526,CO-00177,Direct Cause,High,2024-04-18,Pricing support
+LNK-00083,PRJ-015,RFI-00540,CO-00179,Supporting Documentation,Medium,2024-10-11,Design clarification led to scope change
+LNK-00084,PRJ-016,RFI-00582,CO-00183,Direct Cause,Medium,2023-12-07,Design clarification led to scope change
+LNK-00085,PRJ-016,RFI-00544,CO-00184,Direct Cause,High,2023-06-13,Related coordination issue
+LNK-00086,PRJ-016,RFI-00546,CO-00186,Related Scope,High,2024-02-22,Schedule support
+LNK-00087,PRJ-016,RFI-00544,CO-00192,Related Scope,Medium,2023-05-20,Field condition documented by RFI
+LNK-00088,PRJ-016,RFI-00554,CO-00195,Related Scope,Medium,2024-06-26,Schedule support
+LNK-00089,PRJ-016,RFI-00576,CO-00196,Supporting Documentation,Medium,2023-01-30,Field condition documented by RFI
+LNK-00090,PRJ-016,RFI-00550,CO-00198,Supporting Documentation,High,2022-03-01,Field condition documented by RFI
+LNK-00091,PRJ-017,RFI-00630,CO-00200,Supporting Documentation,High,2023-03-25,Field condition documented by RFI
+LNK-00092,PRJ-017,RFI-00636,CO-00201,Direct Cause,High,2022-06-26,Schedule support
+LNK-00093,PRJ-017,RFI-00596,CO-00203,Related Scope,High,2023-06-04,Schedule support
+LNK-00094,PRJ-017,RFI-00610,CO-00204,Supporting Documentation,Medium,2023-06-13,Pricing support
+LNK-00095,PRJ-017,RFI-00588,CO-00205,Related Scope,Low,2023-01-25,Design clarification led to scope change
+LNK-00096,PRJ-017,RFI-00635,CO-00207,Related Scope,Medium,2023-07-31,Related coordination issue
+LNK-00097,PRJ-017,RFI-00639,CO-00212,Related Scope,Medium,2022-07-01,Field condition documented by RFI
+LNK-00098,PRJ-017,RFI-00590,CO-00215,Supporting Documentation,Medium,2023-08-26,Schedule support
+LNK-00099,PRJ-017,RFI-00625,CO-00216,Direct Cause,Medium,2023-12-05,Related coordination issue
+LNK-00100,PRJ-018,RFI-00676,CO-00220,Direct Cause,Low,2022-01-19,Design clarification led to scope change
+LNK-00101,PRJ-018,RFI-00675,CO-00222,Supporting Documentation,Low,2022-02-13,Design clarification led to scope change
+LNK-00102,PRJ-018,RFI-00674,CO-00224,Direct Cause,High,2022-04-07,Pricing support
+LNK-00103,PRJ-019,RFI-00721,CO-00226,Direct Cause,Medium,2023-03-16,Field condition documented by RFI
+LNK-00104,PRJ-019,RFI-00738,CO-00227,Direct Cause,High,2024-07-03,Design clarification led to scope change
+LNK-00105,PRJ-019,RFI-00733,CO-00228,Direct Cause,High,2022-11-07,Related coordination issue
+LNK-00106,PRJ-019,RFI-00733,CO-00230,Direct Cause,Medium,2022-10-24,Pricing support
+LNK-00107,PRJ-019,RFI-00704,CO-00231,Direct Cause,High,2023-02-07,Schedule support
+LNK-00108,PRJ-019,RFI-00717,CO-00236,Supporting Documentation,High,2023-08-27,Design clarification led to scope change
+LNK-00109,PRJ-019,RFI-00701,CO-00238,Direct Cause,Low,2024-05-18,Pricing support
+LNK-00110,PRJ-019,RFI-00730,CO-00241,Supporting Documentation,Medium,2023-02-07,Design clarification led to scope change
+LNK-00111,PRJ-019,RFI-00706,CO-00247,Supporting Documentation,Medium,2023-10-27,Related coordination issue
+LNK-00112,PRJ-019,RFI-00698,CO-00248,Supporting Documentation,Medium,2024-10-06,Field condition documented by RFI
+LNK-00113,PRJ-020,RFI-00756,CO-00249,Potential Relationship,High,2023-03-18,Schedule support
+LNK-00114,PRJ-020,RFI-00754,CO-00252,Direct Cause,High,2023-08-22,Design clarification led to scope change
+LNK-00115,PRJ-020,RFI-00773,CO-00253,Direct Cause,Medium,2024-01-30,Design clarification led to scope change
+LNK-00116,PRJ-020,RFI-00773,CO-00254,Related Scope,Medium,2023-12-02,Pricing support
+LNK-00117,PRJ-020,RFI-00760,CO-00255,Related Scope,Low,2024-10-11,Field condition documented by RFI
+LNK-00118,PRJ-020,RFI-00772,CO-00260,Supporting Documentation,Medium,2024-11-26,Related coordination issue
+LNK-00119,PRJ-020,RFI-00759,CO-00261,Supporting Documentation,High,2024-10-15,Schedule support
+LNK-00120,PRJ-021,RFI-00787,CO-00266,Direct Cause,Medium,2022-06-25,Field condition documented by RFI
+LNK-00121,PRJ-021,RFI-00810,CO-00267,Supporting Documentation,High,2023-07-18,Design clarification led to scope change
+LNK-00122,PRJ-021,RFI-00810,CO-00272,Potential Relationship,Low,2023-08-04,Design clarification led to scope change
+LNK-00123,PRJ-021,RFI-00781,CO-00273,Direct Cause,High,2022-05-21,Design clarification led to scope change
+LNK-00124,PRJ-021,RFI-00808,CO-00274,Supporting Documentation,High,2023-08-27,Design clarification led to scope change
+LNK-00125,PRJ-021,RFI-00801,CO-00275,Supporting Documentation,Medium,2022-11-14,Field condition documented by RFI
+LNK-00126,PRJ-021,RFI-00779,CO-00276,Supporting Documentation,Medium,2022-08-29,Schedule support
+LNK-00127,PRJ-022,RFI-00821,CO-00278,Direct Cause,Medium,2022-01-15,Field condition documented by RFI
+LNK-00128,PRJ-022,RFI-00842,CO-00281,Supporting Documentation,Medium,2022-01-29,Field condition documented by RFI
+LNK-00129,PRJ-022,RFI-00844,CO-00285,Related Scope,Medium,2022-01-13,Related coordination issue
+LNK-00130,PRJ-022,RFI-00844,CO-00286,Direct Cause,Low,2022-01-13,Pricing support
+LNK-00131,PRJ-022,RFI-00853,CO-00287,Related Scope,Medium,2022-04-18,Field condition documented by RFI
+LNK-00132,PRJ-023,RFI-00866,CO-00288,Supporting Documentation,Medium,2024-05-30,Pricing support
+LNK-00133,PRJ-023,RFI-00861,CO-00289,Supporting Documentation,Medium,2024-07-22,Field condition documented by RFI
+LNK-00134,PRJ-023,RFI-00868,CO-00292,Related Scope,High,2024-05-17,Field condition documented by RFI
+LNK-00135,PRJ-023,RFI-00859,CO-00296,Direct Cause,Medium,2023-07-26,Related coordination issue
+LNK-00136,PRJ-023,RFI-00869,CO-00297,Direct Cause,Medium,2024-10-12,Pricing support
+LNK-00137,PRJ-023,RFI-00883,CO-00299,Supporting Documentation,Medium,2024-04-01,Schedule support
+LNK-00138,PRJ-023,RFI-00891,CO-00300,Supporting Documentation,Medium,2023-09-30,Field condition documented by RFI
+LNK-00139,PRJ-023,RFI-00861,CO-00302,Direct Cause,High,2024-08-10,Related coordination issue
+LNK-00140,PRJ-024,RFI-00921,CO-00304,Supporting Documentation,High,2024-05-27,Pricing support
+LNK-00141,PRJ-024,RFI-00898,CO-00305,Related Scope,Medium,2022-10-15,Related coordination issue
+LNK-00142,PRJ-024,RFI-00914,CO-00310,Supporting Documentation,Medium,2023-08-20,Related coordination issue
+LNK-00143,PRJ-024,RFI-00925,CO-00312,Supporting Documentation,Low,2022-12-22,Field condition documented by RFI
+LNK-00144,PRJ-024,RFI-00918,CO-00317,Related Scope,High,2023-06-17,Design clarification led to scope change
+LNK-00145,PRJ-024,RFI-00898,CO-00318,Related Scope,Medium,2022-10-15,Design clarification led to scope change
+LNK-00146,PRJ-025,RFI-00950,CO-00320,Supporting Documentation,Medium,2024-05-25,Related coordination issue
+LNK-00147,PRJ-025,RFI-00971,CO-00323,Supporting Documentation,Medium,2024-05-03,Related coordination issue
+LNK-00148,PRJ-025,RFI-00935,CO-00324,Direct Cause,Medium,2024-05-22,Field condition documented by RFI
+LNK-00149,PRJ-025,RFI-00964,CO-00325,Related Scope,Medium,2024-05-10,Pricing support
+LNK-00150,PRJ-025,RFI-00932,CO-00333,Direct Cause,Medium,2023-12-30,Field condition documented by RFI
+LNK-00151,PRJ-025,RFI-00937,CO-00334,Direct Cause,Medium,2024-03-14,Design clarification led to scope change
+LNK-00152,PRJ-026,RFI-00976,CO-00338,Supporting Documentation,Medium,2023-11-20,Pricing support
+LNK-00153,PRJ-026,RFI-00979,CO-00339,Potential Relationship,Medium,2024-06-12,Pricing support
+LNK-00154,PRJ-026,RFI-00977,CO-00340,Supporting Documentation,High,2024-03-14,Related coordination issue
+LNK-00155,PRJ-026,RFI-00984,CO-00341,Direct Cause,Low,2025-05-08,Design clarification led to scope change
+LNK-00156,PRJ-027,RFI-00995,CO-00342,Related Scope,High,2022-02-17,Field condition documented by RFI
+LNK-00157,PRJ-027,RFI-01020,CO-00346,Direct Cause,Medium,2022-03-22,Design clarification led to scope change
+LNK-00158,PRJ-027,RFI-01032,CO-00349,Supporting Documentation,Medium,2022-05-15,Related coordination issue
+LNK-00159,PRJ-027,RFI-00991,CO-00354,Direct Cause,Medium,2022-04-19,Design clarification led to scope change
+LNK-00160,PRJ-027,RFI-01044,CO-00355,Related Scope,Medium,2022-03-08,Design clarification led to scope change
+LNK-00161,PRJ-027,RFI-01020,CO-00356,Supporting Documentation,Medium,2022-01-13,Field condition documented by RFI
+LNK-00162,PRJ-027,RFI-01020,CO-00358,Related Scope,Medium,2022-01-13,Schedule support
+LNK-00163,PRJ-028,RFI-01053,CO-00361,Supporting Documentation,Medium,2022-07-04,Related coordination issue
+LNK-00164,PRJ-028,RFI-01048,CO-00362,Direct Cause,Medium,2023-02-14,Field condition documented by RFI
+LNK-00165,PRJ-028,RFI-01063,CO-00368,Supporting Documentation,Medium,2022-02-05,Related coordination issue
+LNK-00166,PRJ-028,RFI-01063,CO-00370,Direct Cause,Medium,2022-05-21,Field condition documented by RFI
+LNK-00167,PRJ-029,RFI-01094,CO-00373,Supporting Documentation,High,2023-07-09,Related coordination issue
+LNK-00168,PRJ-029,RFI-01082,CO-00377,Supporting Documentation,Low,2022-12-16,Design clarification led to scope change
+LNK-00169,PRJ-029,RFI-01115,CO-00378,Direct Cause,Medium,2023-01-22,Design clarification led to scope change
+LNK-00170,PRJ-029,RFI-01128,CO-00379,Direct Cause,High,2023-05-08,Related coordination issue
+LNK-00171,PRJ-030,RFI-01166,CO-00388,Potential Relationship,Medium,2023-07-17,Field condition documented by RFI
+LNK-00172,PRJ-030,RFI-01136,CO-00390,Related Scope,Medium,2022-01-07,Design clarification led to scope change
+LNK-00173,PRJ-030,RFI-01149,CO-00391,Related Scope,Medium,2022-06-07,Design clarification led to scope change
+LNK-00174,PRJ-030,RFI-01164,CO-00393,Direct Cause,High,2023-06-17,Pricing support
+LNK-00175,PRJ-031,RFI-01187,CO-00394,Supporting Documentation,Low,2024-06-22,Related coordination issue
+LNK-00176,PRJ-031,RFI-01182,CO-00398,Direct Cause,High,2024-03-05,Pricing support
+LNK-00177,PRJ-031,RFI-01196,CO-00399,Related Scope,Medium,2024-01-02,Field condition documented by RFI
+LNK-00178,PRJ-031,RFI-01177,CO-00402,Direct Cause,Medium,2024-07-15,Design clarification led to scope change
+LNK-00179,PRJ-032,RFI-01213,CO-00407,Supporting Documentation,High,2023-09-27,Field condition documented by RFI
+LNK-00180,PRJ-032,RFI-01228,CO-00408,Supporting Documentation,High,2023-06-12,Design clarification led to scope change
+LNK-00181,PRJ-032,RFI-01212,CO-00409,Direct Cause,Medium,2023-06-08,Design clarification led to scope change
+LNK-00182,PRJ-032,RFI-01223,CO-00411,Supporting Documentation,Medium,2024-02-18,Pricing support
+LNK-00183,PRJ-032,RFI-01228,CO-00413,Supporting Documentation,Medium,2023-02-23,Design clarification led to scope change
+LNK-00184,PRJ-033,RFI-01251,CO-00419,Related Scope,High,2023-10-25,Pricing support
+LNK-00185,PRJ-033,RFI-01240,CO-00422,Supporting Documentation,Medium,2023-09-10,Schedule support
+LNK-00186,PRJ-033,RFI-01255,CO-00424,Direct Cause,High,2022-12-25,Schedule support
+LNK-00187,PRJ-033,RFI-01244,CO-00427,Related Scope,Medium,2023-02-21,Schedule support
+LNK-00188,PRJ-034,RFI-01274,CO-00430,Direct Cause,Medium,2025-08-29,Related coordination issue
+LNK-00189,PRJ-034,RFI-01265,CO-00432,Related Scope,High,2024-12-15,Pricing support
+LNK-00190,PRJ-034,RFI-01265,CO-00437,Direct Cause,Medium,2024-10-08,Pricing support
+LNK-00191,PRJ-034,RFI-01278,CO-00440,Supporting Documentation,Medium,2025-02-11,Design clarification led to scope change
+LNK-00192,PRJ-035,RFI-01315,CO-00447,Related Scope,Medium,2023-05-07,Design clarification led to scope change
+LNK-00193,PRJ-035,RFI-01294,CO-00448,Related Scope,Medium,2024-08-27,Field condition documented by RFI
+LNK-00194,PRJ-036,RFI-01373,CO-00454,Related Scope,High,2024-10-23,Design clarification led to scope change
+LNK-00195,PRJ-036,RFI-01376,CO-00455,Direct Cause,Medium,2025-10-29,Related coordination issue
+LNK-00196,PRJ-036,RFI-01360,CO-00456,Direct Cause,High,2024-07-24,Schedule support
+LNK-00197,PRJ-036,RFI-01368,CO-00457,Related Scope,Medium,2024-10-01,Schedule support
+LNK-00198,PRJ-036,RFI-01343,CO-00458,Related Scope,Medium,2025-11-23,Related coordination issue
+LNK-00199,PRJ-036,RFI-01380,CO-00461,Related Scope,Medium,2024-07-12,Design clarification led to scope change
+LNK-00200,PRJ-037,RFI-01407,CO-00464,Direct Cause,Medium,2024-04-01,Pricing support
+LNK-00202,PRJ-037,RFI-01414,CO-00470,Related Scope,High,2024-08-12,Pricing support
+LNK-00203,PRJ-037,RFI-01398,CO-00471,Supporting Documentation,Medium,2024-12-08,Field condition documented by RFI
+LNK-00204,PRJ-037,RFI-01409,CO-00472,Direct Cause,High,2023-10-19,Pricing support
+LNK-00205,PRJ-037,RFI-01392,CO-00474,Supporting Documentation,Medium,2024-01-30,Pricing support
+LNK-00206,PRJ-037,RFI-01402,CO-00475,Direct Cause,Medium,2024-12-28,Field condition documented by RFI
+LNK-00207,PRJ-037,RFI-01410,CO-00476,Direct Cause,Medium,2025-09-27,Design clarification led to scope change
+LNK-00208,PRJ-038,RFI-01432,CO-00477,Supporting Documentation,Medium,2024-05-09,Design clarification led to scope change
+LNK-00209,PRJ-038,RFI-01425,CO-00479,Supporting Documentation,Medium,2024-05-15,Pricing support
+LNK-00210,PRJ-038,RFI-01435,CO-00482,Direct Cause,Medium,2025-02-19,Design clarification led to scope change
+LNK-00211,PRJ-038,RFI-01426,CO-00485,Supporting Documentation,Low,2025-05-20,Related coordination issue
+LNK-00212,PRJ-039,RFI-01468,CO-00487,Direct Cause,Medium,2025-05-30,Design clarification led to scope change
+LNK-00213,PRJ-039,RFI-01465,CO-00488,Direct Cause,High,2024-10-26,Related coordination issue
+LNK-00214,PRJ-039,RFI-01465,CO-00489,Supporting Documentation,High,2024-06-10,Design clarification led to scope change
+LNK-00215,PRJ-039,RFI-01473,CO-00492,Supporting Documentation,Medium,2025-07-06,Pricing support
+LNK-00216,PRJ-039,RFI-01484,CO-00496,Supporting Documentation,Medium,2025-01-26,Design clarification led to scope change
+LNK-00217,PRJ-040,RFI-01487,CO-00497,Supporting Documentation,Medium,2024-07-13,Related coordination issue
+LNK-00218,PRJ-040,RFI-01502,CO-00498,Direct Cause,Medium,2025-05-26,Design clarification led to scope change
+LNK-00219,PRJ-040,RFI-01527,CO-00499,Related Scope,Medium,2025-08-06,Pricing support
+LNK-00220,PRJ-040,RFI-01490,CO-00507,Related Scope,Low,2024-02-09,Design clarification led to scope change
+LNK-00221,PRJ-040,RFI-01532,CO-00508,Related Scope,Medium,2024-10-07,Related coordination issue
+LNK-00222,PRJ-040,RFI-01516,CO-00509,Supporting Documentation,Medium,2025-11-01,Design clarification led to scope change
+LNK-00223,PRJ-041,RFI-01541,CO-00510,Direct Cause,Low,2022-04-05,Field condition documented by RFI
+LNK-00224,PRJ-041,RFI-01560,CO-00512,Direct Cause,High,2022-09-24,Related coordination issue
+LNK-00225,PRJ-041,RFI-01562,CO-00513,Direct Cause,Medium,2022-12-14,Related coordination issue
+LNK-00226,PRJ-041,RFI-01536,CO-00514,Direct Cause,Low,2022-07-12,Design clarification led to scope change
+LNK-00227,PRJ-041,RFI-01560,CO-00515,Supporting Documentation,Medium,2022-05-20,Pricing support
+LNK-00228,PRJ-041,RFI-01558,CO-00519,Supporting Documentation,Medium,2022-08-16,Field condition documented by RFI
+LNK-00229,PRJ-041,RFI-01541,CO-00520,Direct Cause,Medium,2022-03-13,Pricing support
+LNK-00230,PRJ-041,RFI-01541,CO-00521,Supporting Documentation,High,2022-02-28,Design clarification led to scope change
+LNK-00231,PRJ-042,RFI-01588,CO-00524,Direct Cause,Medium,2022-11-26,Pricing support
+LNK-00232,PRJ-042,RFI-01578,CO-00525,Direct Cause,Low,2023-10-04,Field condition documented by RFI
+LNK-00233,PRJ-042,RFI-01577,CO-00530,Direct Cause,Medium,2023-08-15,Pricing support
+LNK-00234,PRJ-042,RFI-01585,CO-00531,Direct Cause,Medium,2023-05-24,Related coordination issue
+LNK-00235,PRJ-043,RFI-01626,CO-00533,Supporting Documentation,Low,2024-01-08,Related coordination issue
+LNK-00236,PRJ-043,RFI-01614,CO-00535,Supporting Documentation,High,2024-09-02,Field condition documented by RFI
+LNK-00237,PRJ-043,RFI-01611,CO-00540,Direct Cause,Low,2023-11-21,Pricing support
+LNK-00238,PRJ-043,RFI-01614,CO-00549,Direct Cause,High,2024-11-11,Design clarification led to scope change
+LNK-00239,PRJ-043,RFI-01596,CO-00551,Supporting Documentation,Medium,2025-02-28,Related coordination issue
+LNK-00240,PRJ-044,RFI-01651,CO-00553,Direct Cause,High,2025-04-03,Schedule support
+LNK-00241,PRJ-044,RFI-01657,CO-00556,Direct Cause,High,2023-01-30,Design clarification led to scope change
+LNK-00242,PRJ-044,RFI-01644,CO-00558,Direct Cause,High,2024-09-17,Schedule support
+LNK-00243,PRJ-045,RFI-01661,CO-00562,Direct Cause,High,2025-04-04,Design clarification led to scope change
+LNK-00244,PRJ-045,RFI-01665,CO-00566,Supporting Documentation,High,2024-06-29,Related coordination issue
+LNK-00245,PRJ-045,RFI-01688,CO-00567,Supporting Documentation,Medium,2025-06-30,Field condition documented by RFI
+LNK-00246,PRJ-045,RFI-01664,CO-00568,Direct Cause,High,2024-06-15,Design clarification led to scope change
+LNK-00247,PRJ-046,RFI-01729,CO-00573,Related Scope,Low,2024-11-05,Pricing support
+LNK-00248,PRJ-046,RFI-01731,CO-00577,Supporting Documentation,High,2023-04-18,Field condition documented by RFI
+LNK-00249,PRJ-046,RFI-01731,CO-00579,Direct Cause,Medium,2023-03-20,Field condition documented by RFI
+LNK-00250,PRJ-046,RFI-01741,CO-00582,Supporting Documentation,Medium,2023-05-20,Design clarification led to scope change
+LNK-00251,PRJ-046,RFI-01738,CO-00583,Direct Cause,Medium,2024-03-08,Related coordination issue
+LNK-00252,PRJ-047,RFI-01759,CO-00585,Supporting Documentation,Low,2023-09-13,Related coordination issue
+LNK-00253,PRJ-047,RFI-01754,CO-00587,Related Scope,Medium,2023-12-19,Field condition documented by RFI
+LNK-00254,PRJ-047,RFI-01754,CO-00588,Supporting Documentation,High,2023-09-10,Pricing support
+LNK-00255,PRJ-047,RFI-01765,CO-00592,Direct Cause,Low,2023-07-03,Related coordination issue
+LNK-00256,PRJ-047,RFI-01748,CO-00594,Supporting Documentation,Medium,2024-05-02,Design clarification led to scope change
+LNK-00257,PRJ-048,RFI-01782,CO-00596,Supporting Documentation,Medium,2023-11-30,Field condition documented by RFI
+LNK-00258,PRJ-048,RFI-01816,CO-00598,Supporting Documentation,High,2024-09-11,Field condition documented by RFI
+LNK-00259,PRJ-048,RFI-01816,CO-00599,Direct Cause,Medium,2024-11-11,Design clarification led to scope change
+LNK-00260,PRJ-048,RFI-01767,CO-00603,Direct Cause,Medium,2023-04-13,Design clarification led to scope change
+LNK-00261,PRJ-048,RFI-01815,CO-00604,Supporting Documentation,Medium,2024-04-13,Related coordination issue
+LNK-00262,PRJ-048,RFI-01811,CO-00608,Direct Cause,Medium,2022-11-04,Related coordination issue
+LNK-00263,PRJ-048,RFI-01766,CO-00611,Supporting Documentation,Medium,2024-10-01,Related coordination issue
+LNK-00264,PRJ-048,RFI-01785,CO-00612,Supporting Documentation,Low,2023-04-06,Related coordination issue
+LNK-00265,PRJ-048,RFI-01778,CO-00613,Related Scope,Medium,2022-05-09,Pricing support
+LNK-00266,PRJ-048,RFI-01815,CO-00618,Supporting Documentation,High,2023-12-05,Field condition documented by RFI
+LNK-00267,PRJ-048,RFI-01808,CO-00619,Direct Cause,Medium,2022-04-20,Field condition documented by RFI
+LNK-00268,PRJ-048,RFI-01815,CO-00620,Direct Cause,High,2024-03-24,Design clarification led to scope change
+LNK-00269,PRJ-049,RFI-01825,CO-00622,Supporting Documentation,Medium,2024-04-11,Related coordination issue
+LNK-00270,PRJ-049,RFI-01818,CO-00623,Related Scope,Medium,2024-06-13,Design clarification led to scope change
+LNK-00271,PRJ-049,RFI-01828,CO-00624,Direct Cause,Low,2024-10-12,Design clarification led to scope change
+LNK-00272,PRJ-049,RFI-01825,CO-00627,Related Scope,Medium,2024-07-11,Field condition documented by RFI
+LNK-00273,PRJ-049,RFI-01835,CO-00629,Supporting Documentation,High,2025-08-21,Field condition documented by RFI
+LNK-00274,PRJ-049,RFI-01848,CO-00630,Direct Cause,Medium,2024-08-12,Related coordination issue
+LNK-00275,PRJ-050,RFI-01866,CO-00632,Supporting Documentation,Medium,2025-11-22,Design clarification led to scope change
+LNK-00276,PRJ-050,RFI-01872,CO-00634,Supporting Documentation,Medium,2025-11-20,Design clarification led to scope change
+LNK-00277,PRJ-050,RFI-01868,CO-00635,Direct Cause,High,2024-09-02,Related coordination issue
+LNK-00278,PRJ-050,RFI-01853,CO-00636,Direct Cause,Low,2024-07-02,Schedule support
+LNK-00279,PRJ-050,RFI-01874,CO-00640,Direct Cause,Medium,2025-07-19,Design clarification led to scope change
+LNK-00280,PRJ-051,RFI-01903,CO-00643,Direct Cause,Medium,2024-05-05,Design clarification led to scope change
+LNK-00281,PRJ-051,RFI-01907,CO-00645,Direct Cause,Medium,2023-09-11,Design clarification led to scope change
+LNK-00282,PRJ-051,RFI-01938,CO-00646,Direct Cause,High,2022-07-27,Related coordination issue
+LNK-00283,PRJ-051,RFI-01879,CO-00648,Related Scope,Medium,2024-02-10,Design clarification led to scope change
+LNK-00284,PRJ-051,RFI-01887,CO-00649,Related Scope,Medium,2023-04-08,Design clarification led to scope change
+LNK-00285,PRJ-051,RFI-01886,CO-00650,Direct Cause,Medium,2024-07-30,Field condition documented by RFI
+LNK-00286,PRJ-051,RFI-01888,CO-00651,Related Scope,Medium,2024-01-15,Pricing support
+LNK-00287,PRJ-051,RFI-01937,CO-00652,Supporting Documentation,Medium,2023-02-17,Pricing support
+LNK-00288,PRJ-051,RFI-01938,CO-00654,Related Scope,Medium,2022-08-28,Pricing support
+LNK-00289,PRJ-051,RFI-01881,CO-00656,Supporting Documentation,Medium,2022-07-23,Pricing support
+LNK-00290,PRJ-051,RFI-01938,CO-00658,Supporting Documentation,High,2022-08-20,Pricing support
+LNK-00291,PRJ-051,RFI-01914,CO-00662,Related Scope,Medium,2023-08-14,Design clarification led to scope change
+LNK-00292,PRJ-051,RFI-01897,CO-00663,Supporting Documentation,Medium,2024-01-16,Related coordination issue
+LNK-00294,PRJ-052,RFI-01960,CO-00669,Potential Relationship,High,2024-04-21,Pricing support
+LNK-00295,PRJ-052,RFI-01958,CO-00671,Related Scope,Medium,2023-05-25,Schedule support
+LNK-00296,PRJ-052,RFI-01946,CO-00673,Direct Cause,Medium,2023-10-09,Pricing support
+LNK-00297,PRJ-053,RFI-01979,CO-00675,Direct Cause,High,2022-07-22,Pricing support
+LNK-00298,PRJ-053,RFI-01984,CO-00676,Supporting Documentation,Low,2022-08-30,Related coordination issue
+LNK-00299,PRJ-053,RFI-01969,CO-00677,Supporting Documentation,Medium,2022-10-26,Field condition documented by RFI
+LNK-00300,PRJ-053,RFI-01989,CO-00679,Direct Cause,Medium,2022-09-10,Design clarification led to scope change
+LNK-00301,PRJ-053,RFI-01984,CO-00681,Supporting Documentation,Medium,2022-10-06,Design clarification led to scope change
+LNK-00302,PRJ-053,RFI-01970,CO-00682,Supporting Documentation,Medium,2022-02-19,Schedule support
+LNK-00303,PRJ-053,RFI-01974,CO-00686,Supporting Documentation,Low,2022-06-20,Related coordination issue
+LNK-00304,PRJ-053,RFI-01981,CO-00687,Supporting Documentation,Medium,2022-01-12,Pricing support
+LNK-00305,PRJ-054,RFI-02000,CO-00694,Related Scope,High,2024-02-25,Field condition documented by RFI
+LNK-00306,PRJ-054,RFI-02034,CO-00697,Direct Cause,High,2023-03-20,Design clarification led to scope change
+LNK-00307,PRJ-054,RFI-02009,CO-00698,Direct Cause,High,2023-06-01,Pricing support
+LNK-00308,PRJ-055,RFI-02050,CO-00704,Direct Cause,High,2023-03-31,Field condition documented by RFI
+LNK-00309,PRJ-055,RFI-02047,CO-00705,Direct Cause,High,2023-02-22,Related coordination issue
+LNK-00310,PRJ-055,RFI-02066,CO-00706,Supporting Documentation,High,2022-08-06,Field condition documented by RFI
+LNK-00311,PRJ-056,RFI-02082,CO-00708,Supporting Documentation,Medium,2023-07-08,Design clarification led to scope change
+LNK-00312,PRJ-056,RFI-02098,CO-00710,Direct Cause,Medium,2023-06-17,Related coordination issue
+LNK-00313,PRJ-056,RFI-02096,CO-00711,Supporting Documentation,Medium,2023-06-09,Related coordination issue
+LNK-00314,PRJ-056,RFI-02102,CO-00719,Direct Cause,Medium,2022-12-22,Field condition documented by RFI
+LNK-00315,PRJ-056,RFI-02091,CO-00720,Potential Relationship,Low,2023-04-15,Design clarification led to scope change
+LNK-00316,PRJ-056,RFI-02100,CO-00722,Direct Cause,Medium,2023-03-08,Field condition documented by RFI
+LNK-00317,PRJ-057,RFI-02117,CO-00724,Direct Cause,Medium,2022-03-18,Field condition documented by RFI
+LNK-00318,PRJ-057,RFI-02117,CO-00726,Related Scope,Medium,2022-03-14,Pricing support
+LNK-00319,PRJ-057,RFI-02135,CO-00728,Direct Cause,Medium,2023-06-12,Design clarification led to scope change
+LNK-00320,PRJ-057,RFI-02126,CO-00729,Supporting Documentation,Medium,2022-08-11,Pricing support
+LNK-00321,PRJ-057,RFI-02134,CO-00732,Supporting Documentation,Medium,2022-08-25,Field condition documented by RFI
+LNK-00322,PRJ-058,RFI-02172,CO-00734,Direct Cause,Low,2023-04-18,Related coordination issue
+LNK-00323,PRJ-058,RFI-02162,CO-00736,Related Scope,Medium,2023-10-01,Related coordination issue
+LNK-00324,PRJ-058,RFI-02149,CO-00740,Direct Cause,Medium,2023-12-10,Related coordination issue
+LNK-00325,PRJ-058,RFI-02156,CO-00743,Supporting Documentation,Medium,2023-12-03,Related coordination issue
+LNK-00326,PRJ-059,RFI-02174,CO-00745,Related Scope,High,2025-11-11,Design clarification led to scope change
+LNK-00327,PRJ-059,RFI-02191,CO-00747,Direct Cause,High,2025-11-16,Field condition documented by RFI
+LNK-00328,PRJ-059,RFI-02202,CO-00750,Direct Cause,High,2025-08-25,Design clarification led to scope change
+LNK-00329,PRJ-060,RFI-02229,CO-00753,Supporting Documentation,Medium,2022-05-13,Related coordination issue
+LNK-00330,PRJ-060,RFI-02210,CO-00755,Direct Cause,High,2023-01-15,Related coordination issue
+LNK-00331,PRJ-060,RFI-02216,CO-00757,Supporting Documentation,High,2022-10-27,Design clarification led to scope change
+LNK-00332,PRJ-060,RFI-02213,CO-00758,Potential Relationship,Medium,2024-05-26,Field condition documented by RFI
+LNK-00333,PRJ-061,RFI-02233,CO-00759,Supporting Documentation,Low,2024-03-28,Pricing support
+LNK-00334,PRJ-061,RFI-02240,CO-00760,Supporting Documentation,Medium,2023-09-07,Related coordination issue
+LNK-00335,PRJ-061,RFI-02238,CO-00761,Supporting Documentation,High,2023-08-26,Design clarification led to scope change
+LNK-00336,PRJ-061,RFI-02236,CO-00762,Supporting Documentation,Medium,2023-12-20,Field condition documented by RFI
+LNK-00337,PRJ-061,RFI-02251,CO-00766,Direct Cause,High,2023-10-28,Design clarification led to scope change
+LNK-00338,PRJ-062,RFI-02298,CO-00770,Related Scope,Medium,2023-04-19,Pricing support
+LNK-00339,PRJ-062,RFI-02291,CO-00771,Supporting Documentation,High,2023-08-18,Design clarification led to scope change
+LNK-00340,PRJ-062,RFI-02272,CO-00773,Direct Cause,High,2022-10-10,Pricing support
+LNK-00341,PRJ-062,RFI-02290,CO-00775,Supporting Documentation,Low,2023-03-25,Field condition documented by RFI
+LNK-00342,PRJ-062,RFI-02277,CO-00776,Related Scope,Medium,2023-01-16,Field condition documented by RFI
+LNK-00343,PRJ-062,RFI-02279,CO-00777,Direct Cause,High,2022-05-26,Design clarification led to scope change
+LNK-00344,PRJ-062,RFI-02294,CO-00779,Related Scope,Low,2023-08-22,Design clarification led to scope change
+LNK-00345,PRJ-063,RFI-02300,CO-00788,Direct Cause,High,2025-03-22,Field condition documented by RFI
+LNK-00346,PRJ-064,RFI-02362,CO-00792,Direct Cause,High,2023-06-12,Field condition documented by RFI
+LNK-00347,PRJ-064,RFI-02353,CO-00793,Related Scope,Medium,2023-11-25,Field condition documented by RFI
+LNK-00348,PRJ-064,RFI-02347,CO-00794,Direct Cause,Low,2022-12-28,Pricing support
+LNK-00349,PRJ-064,RFI-02353,CO-00796,Direct Cause,Medium,2024-03-12,Field condition documented by RFI
+LNK-00350,PRJ-064,RFI-02348,CO-00799,Direct Cause,Low,2022-11-01,Pricing support
+LNK-00351,PRJ-064,RFI-02346,CO-00800,Supporting Documentation,High,2023-10-29,Design clarification led to scope change
+LNK-00352,PRJ-064,RFI-02341,CO-00801,Supporting Documentation,Medium,2024-01-21,Design clarification led to scope change
+LNK-00353,PRJ-064,RFI-02355,CO-00802,Related Scope,High,2024-07-20,Schedule support
+LNK-00354,PRJ-065,RFI-02380,CO-00805,Direct Cause,Medium,2024-01-27,Schedule support
+LNK-00355,PRJ-065,RFI-02397,CO-00807,Direct Cause,Medium,2024-02-14,Pricing support
+LNK-00356,PRJ-065,RFI-02378,CO-00810,Potential Relationship,Medium,2024-09-23,Pricing support
+LNK-00357,PRJ-065,RFI-02380,CO-00812,Supporting Documentation,High,2024-02-17,Design clarification led to scope change
+LNK-00358,PRJ-066,RFI-02428,CO-00818,Direct Cause,Medium,2023-04-29,Design clarification led to scope change
+LNK-00359,PRJ-066,RFI-02420,CO-00820,Direct Cause,High,2023-08-22,Schedule support
+LNK-00360,PRJ-067,RFI-02460,CO-00822,Direct Cause,High,2022-10-07,Related coordination issue
+LNK-00361,PRJ-067,RFI-02441,CO-00824,Supporting Documentation,Medium,2022-10-24,Pricing support
+LNK-00362,PRJ-067,RFI-02449,CO-00825,Potential Relationship,Medium,2023-04-29,Schedule support
+LNK-00363,PRJ-067,RFI-02440,CO-00826,Related Scope,Medium,2023-05-09,Design clarification led to scope change
+LNK-00364,PRJ-067,RFI-02454,CO-00829,Potential Relationship,Medium,2022-12-28,Field condition documented by RFI
+LNK-00365,PRJ-067,RFI-02444,CO-00833,Direct Cause,High,2022-10-13,Pricing support
+LNK-00366,PRJ-067,RFI-02439,CO-00834,Supporting Documentation,Medium,2023-02-08,Schedule support
+LNK-00367,PRJ-068,RFI-02476,CO-00840,Related Scope,Medium,2023-11-17,Field condition documented by RFI
+LNK-00368,PRJ-068,RFI-02486,CO-00842,Related Scope,Low,2023-03-11,Design clarification led to scope change
+LNK-00369,PRJ-069,RFI-02519,CO-00843,Supporting Documentation,Medium,2022-08-30,Schedule support
+LNK-00370,PRJ-069,RFI-02530,CO-00848,Supporting Documentation,Low,2022-07-19,Related coordination issue
+LNK-00371,PRJ-069,RFI-02526,CO-00851,Related Scope,Low,2022-08-24,Field condition documented by RFI
+LNK-00372,PRJ-070,RFI-02563,CO-00852,Supporting Documentation,High,2024-01-08,Related coordination issue
+LNK-00373,PRJ-070,RFI-02559,CO-00853,Direct Cause,High,2022-09-13,Design clarification led to scope change
+LNK-00374,PRJ-070,RFI-02534,CO-00856,Supporting Documentation,Low,2023-01-05,Field condition documented by RFI
+LNK-00375,PRJ-070,RFI-02539,CO-00864,Supporting Documentation,Low,2025-04-08,Design clarification led to scope change
+LNK-00376,PRJ-071,RFI-02566,CO-00867,Direct Cause,High,2022-10-16,Pricing support
+LNK-00377,PRJ-071,RFI-02588,CO-00868,Supporting Documentation,Medium,2022-04-08,Field condition documented by RFI
+LNK-00378,PRJ-071,RFI-02578,CO-00871,Direct Cause,Low,2023-04-16,Related coordination issue
+LNK-00379,PRJ-071,RFI-02584,CO-00872,Direct Cause,Low,2023-12-01,Design clarification led to scope change
+LNK-00380,PRJ-071,RFI-02584,CO-00873,Related Scope,Medium,2023-10-05,Field condition documented by RFI
+LNK-00381,PRJ-071,RFI-02566,CO-00875,Related Scope,High,2022-10-02,Pricing support
+LNK-00382,PRJ-071,RFI-02568,CO-00877,Supporting Documentation,High,2023-07-18,Pricing support
+LNK-00383,PRJ-072,RFI-02610,CO-00878,Supporting Documentation,Medium,2023-04-01,Related coordination issue
+LNK-00384,PRJ-072,RFI-02649,CO-00881,Supporting Documentation,High,2024-02-29,Schedule support
+LNK-00385,PRJ-072,RFI-02613,CO-00882,Supporting Documentation,Low,2025-01-17,Schedule support
+LNK-00386,PRJ-072,RFI-02631,CO-00885,Related Scope,Medium,2024-02-10,Design clarification led to scope change
+LNK-00387,PRJ-072,RFI-02610,CO-00891,Related Scope,Medium,2023-04-09,Field condition documented by RFI
+LNK-00388,PRJ-072,RFI-02647,CO-00893,Supporting Documentation,High,2023-09-27,Design clarification led to scope change
+LNK-00389,PRJ-073,RFI-02682,CO-00895,Supporting Documentation,Medium,2022-08-17,Field condition documented by RFI
+LNK-00390,PRJ-073,RFI-02681,CO-00897,Related Scope,High,2022-07-13,Field condition documented by RFI
+LNK-00391,PRJ-073,RFI-02688,CO-00898,Supporting Documentation,Low,2023-03-21,Schedule support
+LNK-00392,PRJ-073,RFI-02680,CO-00900,Direct Cause,High,2023-02-16,Design clarification led to scope change
+LNK-00393,PRJ-073,RFI-02666,CO-00903,Direct Cause,High,2023-04-13,Design clarification led to scope change
+LNK-00394,PRJ-074,RFI-02707,CO-00905,Supporting Documentation,Medium,2023-08-04,Field condition documented by RFI
+LNK-00395,PRJ-074,RFI-02702,CO-00909,Direct Cause,Medium,2022-01-31,Field condition documented by RFI
+LNK-00396,PRJ-074,RFI-02721,CO-00910,Direct Cause,High,2023-05-23,Related coordination issue
+LNK-00397,PRJ-074,RFI-02718,CO-00912,Related Scope,Low,2022-07-26,Pricing support
+LNK-00398,PRJ-075,RFI-02778,CO-00914,Direct Cause,Medium,2025-03-14,Schedule support
+LNK-00399,PRJ-075,RFI-02758,CO-00915,Related Scope,Medium,2024-03-24,Related coordination issue
+LNK-00400,PRJ-075,RFI-02773,CO-00917,Direct Cause,High,2025-04-09,Pricing support
+LNK-00401,PRJ-075,RFI-02740,CO-00918,Direct Cause,High,2025-05-10,Field condition documented by RFI
+LNK-00402,PRJ-075,RFI-02743,CO-00919,Supporting Documentation,Low,2023-11-18,Field condition documented by RFI
+LNK-00403,PRJ-075,RFI-02773,CO-00922,Direct Cause,High,2025-06-29,Design clarification led to scope change
+LNK-00404,PRJ-075,RFI-02773,CO-00924,Potential Relationship,High,2025-07-05,Related coordination issue
+LNK-00405,PRJ-075,RFI-02738,CO-00925,Supporting Documentation,Medium,2024-10-02,Field condition documented by RFI
+LNK-00406,PRJ-075,RFI-02772,CO-00928,Potential Relationship,Medium,2024-03-26,Pricing support
+LNK-00407,PRJ-075,RFI-02743,CO-00936,Potential Relationship,Medium,2023-11-18,Pricing support
+LNK-00408,PRJ-075,RFI-02751,CO-00937,Supporting Documentation,Medium,2025-02-02,Field condition documented by RFI
+LNK-00409,PRJ-075,RFI-02764,CO-00938,Supporting Documentation,Medium,2024-07-21,Design clarification led to scope change
+LNK-00410,PRJ-075,RFI-02766,CO-00939,Supporting Documentation,Medium,2024-03-25,Field condition documented by RFI
+LNK-00411,PRJ-076,RFI-02812,CO-00941,Related Scope,Medium,2022-09-17,Schedule support
+LNK-00412,PRJ-076,RFI-02800,CO-00943,Supporting Documentation,High,2022-09-27,Related coordination issue
+LNK-00413,PRJ-076,RFI-02785,CO-00944,Potential Relationship,Low,2022-08-16,Pricing support
+LNK-00414,PRJ-076,RFI-02795,CO-00947,Direct Cause,Medium,2022-05-13,Related coordination issue
+LNK-00415,PRJ-076,RFI-02793,CO-00950,Direct Cause,Medium,2022-03-05,Pricing support
+LNK-00416,PRJ-077,RFI-02865,CO-00953,Related Scope,Medium,2022-09-03,Design clarification led to scope change
+LNK-00417,PRJ-077,RFI-02879,CO-00956,Direct Cause,Medium,2022-03-21,Field condition documented by RFI
+LNK-00418,PRJ-077,RFI-02847,CO-00958,Related Scope,Medium,2022-02-25,Pricing support
+LNK-00419,PRJ-077,RFI-02871,CO-00960,Supporting Documentation,High,2022-11-25,Schedule support
+LNK-00420,PRJ-078,RFI-02913,CO-00961,Related Scope,High,2023-11-06,Field condition documented by RFI
+LNK-00421,PRJ-078,RFI-02897,CO-00962,Related Scope,Medium,2024-02-06,Design clarification led to scope change
+LNK-00422,PRJ-078,RFI-02926,CO-00963,Supporting Documentation,Medium,2022-08-01,Related coordination issue
+LNK-00423,PRJ-078,RFI-02893,CO-00964,Direct Cause,Medium,2024-01-14,Pricing support
+LNK-00424,PRJ-078,RFI-02901,CO-00965,Supporting Documentation,Medium,2022-08-29,Design clarification led to scope change
+LNK-00425,PRJ-078,RFI-02915,CO-00967,Direct Cause,High,2023-03-19,Field condition documented by RFI
+LNK-00426,PRJ-078,RFI-02907,CO-00968,Related Scope,Medium,2023-08-07,Field condition documented by RFI
+LNK-00427,PRJ-078,RFI-02908,CO-00970,Supporting Documentation,Medium,2022-04-25,Related coordination issue
+LNK-00428,PRJ-079,RFI-02964,CO-00973,Direct Cause,Medium,2023-05-09,Pricing support
+LNK-00429,PRJ-079,RFI-02958,CO-00975,Potential Relationship,Low,2023-03-26,Field condition documented by RFI
+LNK-00430,PRJ-079,RFI-02936,CO-00976,Direct Cause,High,2022-04-19,Pricing support
+LNK-00431,PRJ-079,RFI-02965,CO-00978,Direct Cause,High,2022-09-04,Pricing support
+LNK-00432,PRJ-079,RFI-02964,CO-00979,Direct Cause,High,2023-03-02,Pricing support
+LNK-00433,PRJ-079,RFI-02950,CO-00980,Supporting Documentation,Medium,2022-01-22,Pricing support
+LNK-00434,PRJ-079,RFI-02929,CO-00983,Direct Cause,High,2023-04-05,Design clarification led to scope change
+LNK-00435,PRJ-079,RFI-02945,CO-00984,Direct Cause,Medium,2022-09-12,Related coordination issue
+LNK-00436,PRJ-079,RFI-02930,CO-00985,Direct Cause,High,2024-01-28,Pricing support
+LNK-00437,PRJ-080,RFI-02986,CO-00986,Direct Cause,Medium,2022-10-22,Schedule support
+LNK-00438,PRJ-080,RFI-02971,CO-00988,Related Scope,Medium,2022-11-09,Schedule support
+LNK-00439,PRJ-080,RFI-02986,CO-00989,Supporting Documentation,Medium,2022-09-26,Schedule support
+LNK-00440,PRJ-080,RFI-02981,CO-00991,Related Scope,Medium,2022-10-21,Design clarification led to scope change
+LNK-00441,PRJ-080,RFI-02987,CO-00992,Supporting Documentation,Medium,2022-09-26,Field condition documented by RFI
+LNK-00442,PRJ-080,RFI-02994,CO-00995,Supporting Documentation,High,2022-02-13,Field condition documented by RFI
+LNK-00443,PRJ-081,RFI-03023,CO-00999,Potential Relationship,Medium,2024-06-21,Related coordination issue
+LNK-00444,PRJ-081,RFI-03023,CO-01002,Direct Cause,Medium,2024-09-17,Field condition documented by RFI
+LNK-00445,PRJ-081,RFI-03035,CO-01003,Direct Cause,High,2025-02-08,Schedule support
+LNK-00446,PRJ-081,RFI-03015,CO-01006,Related Scope,High,2023-11-16,Schedule support
+LNK-00447,PRJ-081,RFI-03030,CO-01013,Direct Cause,High,2025-01-14,Design clarification led to scope change
+LNK-00448,PRJ-082,RFI-03058,CO-01018,Related Scope,High,2025-11-09,Design clarification led to scope change
+LNK-00449,PRJ-082,RFI-03060,CO-01021,Direct Cause,High,2025-10-18,Schedule support
+LNK-00450,PRJ-082,RFI-03074,CO-01023,Related Scope,High,2025-06-01,Pricing support
+LNK-00451,PRJ-082,RFI-03066,CO-01024,Direct Cause,High,2023-09-19,Schedule support
+LNK-00452,PRJ-082,RFI-03055,CO-01025,Supporting Documentation,Medium,2025-01-21,Design clarification led to scope change
+LNK-00453,PRJ-083,RFI-03100,CO-01027,Direct Cause,High,2023-11-02,Design clarification led to scope change
+LNK-00454,PRJ-083,RFI-03082,CO-01028,Direct Cause,Low,2022-11-24,Design clarification led to scope change
+LNK-00455,PRJ-083,RFI-03101,CO-01029,Direct Cause,Medium,2023-05-13,Related coordination issue
+LNK-00456,PRJ-083,RFI-03095,CO-01030,Supporting Documentation,Low,2024-04-18,Field condition documented by RFI
+LNK-00457,PRJ-083,RFI-03086,CO-01031,Direct Cause,High,2023-12-21,Pricing support
+LNK-00458,PRJ-083,RFI-03088,CO-01033,Supporting Documentation,Low,2024-09-23,Schedule support
+LNK-00459,PRJ-083,RFI-03097,CO-01034,Supporting Documentation,Medium,2023-04-17,Design clarification led to scope change
+LNK-00460,PRJ-084,RFI-03117,CO-01038,Direct Cause,Medium,2024-04-14,Related coordination issue
+LNK-00461,PRJ-084,RFI-03127,CO-01040,Potential Relationship,Medium,2024-02-16,Field condition documented by RFI
+LNK-00462,PRJ-084,RFI-03119,CO-01041,Direct Cause,Low,2024-08-22,Related coordination issue
+LNK-00463,PRJ-084,RFI-03109,CO-01042,Direct Cause,High,2025-09-29,Related coordination issue
+LNK-00464,PRJ-085,RFI-03144,CO-01050,Direct Cause,Medium,2024-03-12,Field condition documented by RFI
+LNK-00465,PRJ-085,RFI-03153,CO-01052,Direct Cause,High,2025-03-05,Design clarification led to scope change
+LNK-00466,PRJ-085,RFI-03149,CO-01054,Related Scope,Medium,2024-07-07,Schedule support
+LNK-00467,PRJ-086,RFI-03161,CO-01055,Related Scope,Medium,2023-11-07,Design clarification led to scope change
+LNK-00468,PRJ-086,RFI-03171,CO-01062,Potential Relationship,Medium,2024-04-15,Field condition documented by RFI
+LNK-00469,PRJ-086,RFI-03188,CO-01063,Related Scope,Low,2022-10-14,Pricing support
+LNK-00470,PRJ-086,RFI-03187,CO-01065,Supporting Documentation,High,2022-10-28,Design clarification led to scope change
+LNK-00471,PRJ-087,RFI-03212,CO-01066,Supporting Documentation,Medium,2025-05-18,Pricing support
+LNK-00472,PRJ-087,RFI-03217,CO-01067,Related Scope,Medium,2024-07-30,Related coordination issue
+LNK-00473,PRJ-087,RFI-03219,CO-01068,Direct Cause,Medium,2025-01-07,Design clarification led to scope change
+LNK-00474,PRJ-087,RFI-03217,CO-01069,Direct Cause,Medium,2024-11-28,Design clarification led to scope change
+LNK-00475,PRJ-087,RFI-03204,CO-01074,Direct Cause,High,2024-01-31,Design clarification led to scope change
+LNK-00476,PRJ-087,RFI-03218,CO-01075,Direct Cause,High,2024-02-02,Design clarification led to scope change
+LNK-00477,PRJ-088,RFI-03228,CO-01077,Related Scope,Medium,2024-07-22,Pricing support
+LNK-00478,PRJ-088,RFI-03255,CO-01080,Potential Relationship,Medium,2024-07-23,Design clarification led to scope change
+LNK-00479,PRJ-088,RFI-03249,CO-01082,Direct Cause,Medium,2025-05-02,Field condition documented by RFI
+LNK-00480,PRJ-088,RFI-03223,CO-01083,Related Scope,High,2024-08-03,Design clarification led to scope change
+LNK-00481,PRJ-088,RFI-03250,CO-01084,Supporting Documentation,Medium,2024-01-25,Field condition documented by RFI
+LNK-00482,PRJ-088,RFI-03250,CO-01085,Related Scope,Medium,2023-12-03,Design clarification led to scope change
+LNK-00483,PRJ-088,RFI-03252,CO-01086,Direct Cause,Medium,2024-07-03,Field condition documented by RFI
+LNK-00484,PRJ-088,RFI-03238,CO-01087,Related Scope,High,2025-01-08,Pricing support
+LNK-00485,PRJ-088,RFI-03243,CO-01091,Potential Relationship,High,2024-05-09,Design clarification led to scope change
+LNK-00486,PRJ-088,RFI-03228,CO-01093,Supporting Documentation,Medium,2024-11-21,Pricing support
+LNK-00487,PRJ-089,RFI-03270,CO-01096,Related Scope,Medium,2024-06-24,Related coordination issue
+LNK-00488,PRJ-089,RFI-03278,CO-01099,Direct Cause,Medium,2025-03-05,Field condition documented by RFI
+LNK-00489,PRJ-089,RFI-03273,CO-01103,Direct Cause,Medium,2024-09-21,Related coordination issue
+LNK-00490,PRJ-090,RFI-03306,CO-01105,Direct Cause,Medium,2024-03-30,Field condition documented by RFI
+LNK-00491,PRJ-090,RFI-03304,CO-01106,Supporting Documentation,Low,2024-08-17,Related coordination issue
+LNK-00492,PRJ-090,RFI-03301,CO-01107,Direct Cause,High,2025-01-22,Field condition documented by RFI
+LNK-00493,PRJ-090,RFI-03311,CO-01109,Direct Cause,High,2025-07-27,Pricing support
+LNK-00494,PRJ-090,RFI-03311,CO-01113,Supporting Documentation,Medium,2025-06-28,Field condition documented by RFI
+LNK-00495,PRJ-090,RFI-03296,CO-01114,Direct Cause,Low,2024-04-26,Field condition documented by RFI
+LNK-00496,PRJ-090,RFI-03286,CO-01115,Supporting Documentation,Medium,2025-07-20,Design clarification led to scope change
+LNK-00497,PRJ-090,RFI-03304,CO-01116,Related Scope,Medium,2024-08-08,Field condition documented by RFI
+LNK-00498,PRJ-090,RFI-03315,CO-01118,Supporting Documentation,Medium,2024-04-16,Schedule support
+LNK-00499,PRJ-044,RFI-01641,CO-00555,Direct Cause,High,2025-04-25,Field condition documented by RFI
+LNK-00500,PRJ-045,RFI-01686,CO-00565,Related Scope,Medium,2025-10-27,Field condition documented by RFI
+LNK-00501,PRJ-010,RFI-00338,CO-00119,Direct Cause,Medium,2023-11-18,Design clarification led to scope change
+LNK-00502,PRJ-080,RFI-02986,CO-00991,Direct Cause,Medium,2022-10-21,Pricing support
+LNK-00503,PRJ-006,RFI-00190,CO-00067,Direct Cause,Medium,2024-04-11,Design clarification led to scope change
+LNK-00504,PRJ-034,RFI-01280,CO-00441,Related Scope,Medium,2025-10-31,Related coordination issue
+LNK-00505,PRJ-009,RFI-00318,CO-00110,Supporting Documentation,High,2023-10-03,Schedule support
+LNK-00506,PRJ-056,RFI-02081,CO-00708,Supporting Documentation,Low,2023-10-10,Related coordination issue
+LNK-00507,PRJ-006,RFI-00190,CO-00068,Supporting Documentation,High,2023-09-29,Related coordination issue
+LNK-00508,PRJ-012,RFI-00434,CO-00148,Direct Cause,High,2025-06-01,Design clarification led to scope change
+LNK-00509,PRJ-084,RFI-03119,CO-01038,Direct Cause,Medium,2024-05-06,Pricing support
+LNK-00510,PRJ-074,RFI-02703,CO-00905,Direct Cause,High,2023-08-04,Schedule support
+LNK-00511,PRJ-059,RFI-02198,CO-00747,Direct Cause,Medium,2025-11-16,Design clarification led to scope change
+LNK-00512,PRJ-081,RFI-03018,CO-01014,Supporting Documentation,Low,2025-07-23,Design clarification led to scope change
+LNK-00513,PRJ-052,RFI-01940,CO-00669,Direct Cause,High,2025-01-31,Related coordination issue
+LNK-00514,PRJ-064,RFI-02351,CO-00790,Direct Cause,High,2024-07-26,Field condition documented by RFI
+LNK-00515,PRJ-035,RFI-01337,CO-00443,Potential Relationship,Medium,2024-11-02,Field condition documented by RFI
+LNK-00516,PRJ-044,RFI-01635,CO-00556,Direct Cause,Medium,2024-07-31,Design clarification led to scope change
+LNK-00517,PRJ-020,RFI-00756,CO-00259,Supporting Documentation,High,2023-05-28,Field condition documented by RFI
+LNK-00518,PRJ-016,RFI-00578,CO-00189,Related Scope,Low,2024-06-10,Design clarification led to scope change
+LNK-00519,PRJ-089,RFI-03268,CO-01095,Supporting Documentation,High,2024-11-23,Field condition documented by RFI
+LNK-00520,PRJ-025,RFI-00932,CO-00334,Direct Cause,Medium,2024-03-14,Design clarification led to scope change
+LNK-00521,PRJ-002,RFI-00090,CO-00017,Direct Cause,Medium,2024-06-04,Pricing support
+LNK-00522,PRJ-086,RFI-03161,CO-01064,Direct Cause,High,2024-08-02,Field condition documented by RFI
+LNK-00523,PRJ-020,RFI-00754,CO-00254,Direct Cause,High,2023-11-22,Design clarification led to scope change
+LNK-00524,PRJ-004,RFI-00129,CO-00053,Supporting Documentation,Medium,2025-10-24,Pricing support
+LNK-00525,PRJ-001,RFI-00021,CO-00008,Direct Cause,Medium,2025-02-08,Design clarification led to scope change
+LNK-00526,PRJ-009,RFI-00322,CO-00106,Direct Cause,High,2023-04-01,Schedule support
+LNK-00527,PRJ-039,RFI-01450,CO-00489,Direct Cause,High,2025-06-02,Field condition documented by RFI
+LNK-00528,PRJ-062,RFI-02283,CO-00774,Related Scope,Medium,2024-01-07,Design clarification led to scope change
+LNK-00529,PRJ-080,RFI-02986,CO-00987,Direct Cause,Medium,2022-08-12,Related coordination issue
+LNK-00530,PRJ-046,RFI-01717,CO-00581,Related Scope,Medium,2024-04-15,Pricing support
+LNK-00531,PRJ-012,RFI-00406,CO-00140,Supporting Documentation,Medium,2024-11-27,Design clarification led to scope change
+LNK-00532,PRJ-012,RFI-00413,CO-00141,Direct Cause,High,2024-09-18,Field condition documented by RFI
+LNK-00533,PRJ-072,RFI-02599,CO-00889,Supporting Documentation,Medium,2024-12-13,Related coordination issue
+LNK-00534,PRJ-075,RFI-02761,CO-00920,Supporting Documentation,Medium,2025-11-24,Pricing support
+LNK-00535,PRJ-058,RFI-02161,CO-00743,Supporting Documentation,Medium,2024-02-16,Related coordination issue
+LNK-00536,PRJ-083,RFI-03101,CO-01031,Supporting Documentation,Medium,2023-12-21,Related coordination issue
+LNK-00537,PRJ-048,RFI-01789,CO-00597,Supporting Documentation,Low,2024-09-02,Related coordination issue
+LNK-00538,PRJ-008,RFI-00298,CO-00087,Direct Cause,High,2023-06-28,Schedule support
+LNK-00539,PRJ-017,RFI-00601,CO-00199,Supporting Documentation,Medium,2023-11-06,Related coordination issue
+LNK-00540,PRJ-014,RFI-00502,CO-00167,Supporting Documentation,Medium,2025-06-01,Design clarification led to scope change
+LNK-00541,PRJ-044,RFI-01630,CO-00557,Related Scope,High,2023-12-03,Related coordination issue
+LNK-00542,PRJ-089,RFI-03268,CO-01098,Supporting Documentation,Medium,2025-03-15,Related coordination issue
+LNK-00543,PRJ-050,RFI-01872,CO-00632,Direct Cause,Medium,2025-11-17,Field condition documented by RFI
+LNK-00544,PRJ-048,RFI-01810,CO-00596,Direct Cause,High,2024-03-17,Field condition documented by RFI
+LNK-00545,PRJ-028,RFI-01046,CO-00363,Related Scope,Medium,2022-11-06,Pricing support
+LNK-00546,PRJ-001,RFI-00013,CO-00015,Direct Cause,High,2024-08-30,Pricing support
+LNK-00547,PRJ-032,RFI-01227,CO-00411,Direct Cause,Medium,2024-02-18,Pricing support
+LNK-00548,PRJ-048,RFI-01772,CO-00615,Direct Cause,Medium,2023-01-08,Schedule support
+LNK-00549,PRJ-043,RFI-01626,CO-00552,Direct Cause,Medium,2023-08-22,Field condition documented by RFI
+LNK-00550,PRJ-078,RFI-02906,CO-00962,Direct Cause,Medium,2024-02-06,Field condition documented by RFI
+LNK-00551,PRJ-073,RFI-02698,CO-00897,Direct Cause,Medium,2023-07-20,Field condition documented by RFI
+LNK-00552,PRJ-041,RFI-01558,CO-00517,Direct Cause,Medium,2022-10-07,Design clarification led to scope change
+LNK-00553,PRJ-062,RFI-02272,CO-00778,Supporting Documentation,High,2023-12-08,Field condition documented by RFI
+LNK-00554,PRJ-064,RFI-02340,CO-00799,Supporting Documentation,Medium,2023-01-23,Field condition documented by RFI
+LNK-00555,PRJ-029,RFI-01093,CO-00380,Potential Relationship,High,2023-02-28,Design clarification led to scope change
+LNK-00556,PRJ-001,RFI-00021,CO-00005,Supporting Documentation,Medium,2024-10-29,Design clarification led to scope change
+LNK-00557,PRJ-069,RFI-02530,CO-00843,Related Scope,Low,2022-08-30,Related coordination issue
+LNK-00558,PRJ-049,RFI-01832,CO-00630,Supporting Documentation,Medium,2024-08-12,Pricing support
+LNK-00559,PRJ-028,RFI-01053,CO-00362,Related Scope,Medium,2023-02-06,Design clarification led to scope change
+LNK-00560,PRJ-021,RFI-00795,CO-00273,Direct Cause,High,2023-12-22,Field condition documented by RFI
+LNK-00561,PRJ-013,RFI-00463,CO-00156,Potential Relationship,Medium,2022-08-31,Schedule support
+LNK-00562,PRJ-002,RFI-00059,CO-00029,Direct Cause,High,2023-04-21,Related coordination issue
+LNK-00563,PRJ-090,RFI-03286,CO-01116,Supporting Documentation,High,2025-05-20,Field condition documented by RFI
+LNK-00564,PRJ-036,RFI-01344,CO-00456,Direct Cause,High,2024-08-02,Pricing support
+LNK-00565,PRJ-072,RFI-02631,CO-00888,Related Scope,Medium,2024-03-15,Related coordination issue
+LNK-00566,PRJ-027,RFI-00995,CO-00353,Direct Cause,Low,2022-02-26,Design clarification led to scope change
+LNK-00567,PRJ-043,RFI-01598,CO-00533,Supporting Documentation,High,2024-01-26,Design clarification led to scope change
+LNK-00568,PRJ-022,RFI-00817,CO-00286,Direct Cause,Medium,2022-02-08,Field condition documented by RFI
+LNK-00569,PRJ-073,RFI-02662,CO-00895,Supporting Documentation,High,2022-08-17,Field condition documented by RFI
+LNK-00570,PRJ-035,RFI-01330,CO-00450,Direct Cause,Medium,2024-09-27,Design clarification led to scope change
+LNK-00571,PRJ-073,RFI-02668,CO-00900,Supporting Documentation,High,2023-04-28,Pricing support
+LNK-00572,PRJ-005,RFI-00173,CO-00056,Related Scope,Medium,2025-07-01,Design clarification led to scope change
+LNK-00573,PRJ-083,RFI-03094,CO-01029,Related Scope,Medium,2023-11-28,Design clarification led to scope change
+LNK-00574,PRJ-048,RFI-01789,CO-00599,Direct Cause,Low,2024-11-11,Pricing support
+LNK-00575,PRJ-003,RFI-00115,CO-00035,Direct Cause,High,2023-08-01,Design clarification led to scope change
+LNK-00576,PRJ-041,RFI-01549,CO-00510,Direct Cause,Medium,2022-04-05,Design clarification led to scope change
+LNK-00577,PRJ-036,RFI-01349,CO-00457,Supporting Documentation,Medium,2025-03-17,Related coordination issue
+LNK-00578,PRJ-028,RFI-01063,CO-00366,Supporting Documentation,Medium,2022-04-04,Design clarification led to scope change
+LNK-00579,PRJ-003,RFI-00108,CO-00035,Supporting Documentation,High,2023-08-01,Related coordination issue
+LNK-00580,PRJ-012,RFI-00431,CO-00150,Supporting Documentation,Medium,2025-10-15,Pricing support
+LNK-00581,PRJ-073,RFI-02698,CO-00896,Supporting Documentation,High,2023-07-20,Schedule support
+LNK-00582,PRJ-075,RFI-02739,CO-00914,Direct Cause,Medium,2025-12-30,Pricing support
+LNK-00583,PRJ-049,RFI-01828,CO-00622,Supporting Documentation,Medium,2024-09-23,Field condition documented by RFI
+LNK-00584,PRJ-024,RFI-00911,CO-00313,Supporting Documentation,Medium,2024-05-08,Pricing support
+LNK-00585,PRJ-053,RFI-01992,CO-00685,Supporting Documentation,Low,2022-10-25,Design clarification led to scope change
+LNK-00586,PRJ-044,RFI-01635,CO-00554,Direct Cause,High,2024-07-31,Design clarification led to scope change
+LNK-00587,PRJ-086,RFI-03188,CO-01057,Supporting Documentation,High,2024-02-18,Design clarification led to scope change
+LNK-00588,PRJ-048,RFI-01776,CO-00603,Direct Cause,Medium,2023-04-13,Field condition documented by RFI
+LNK-00589,PRJ-014,RFI-00495,CO-00169,Supporting Documentation,High,2025-02-25,Design clarification led to scope change
+LNK-00590,PRJ-052,RFI-01961,CO-00669,Related Scope,Medium,2025-08-03,Schedule support
+LNK-00591,PRJ-043,RFI-01609,CO-00551,Direct Cause,Medium,2025-02-28,Design clarification led to scope change
+LNK-00592,PRJ-041,RFI-01538,CO-00520,Supporting Documentation,High,2022-06-03,Field condition documented by RFI
+LNK-00593,PRJ-012,RFI-00408,CO-00149,Direct Cause,High,2025-04-10,Pricing support
+LNK-00594,PRJ-061,RFI-02263,CO-00760,Direct Cause,Medium,2023-08-28,Related coordination issue
+LNK-00595,PRJ-041,RFI-01558,CO-00520,Related Scope,Medium,2022-07-31,Related coordination issue
+LNK-00596,PRJ-073,RFI-02677,CO-00900,Supporting Documentation,High,2023-04-11,Design clarification led to scope change
+LNK-00597,PRJ-014,RFI-00506,CO-00170,Direct Cause,Medium,2024-12-31,Pricing support
+LNK-00598,PRJ-072,RFI-02647,CO-00888,Related Scope,Medium,2024-03-15,Schedule support
+LNK-00599,PRJ-017,RFI-00642,CO-00215,Related Scope,Medium,2023-08-26,Pricing support
+LNK-00600,PRJ-075,RFI-02742,CO-00928,Supporting Documentation,Medium,2024-07-21,Field condition documented by RFI
+LNK-00601,PRJ-090,RFI-03285,CO-01120,Supporting Documentation,Low,2025-09-29,Design clarification led to scope change
+LNK-00602,PRJ-075,RFI-02764,CO-00917,Direct Cause,High,2025-04-03,Related coordination issue
+LNK-00603,PRJ-088,RFI-03237,CO-01079,Direct Cause,High,2025-03-10,Schedule support
+LNK-00604,PRJ-025,RFI-00935,CO-00322,Direct Cause,Low,2024-05-16,Field condition documented by RFI
+LNK-00605,PRJ-003,RFI-00098,CO-00041,Supporting Documentation,Medium,2023-06-11,Pricing support
+LNK-00606,PRJ-030,RFI-01147,CO-00391,Direct Cause,High,2023-09-19,Pricing support
+LNK-00607,PRJ-046,RFI-01723,CO-00581,Supporting Documentation,High,2024-05-19,Field condition documented by RFI
+LNK-00608,PRJ-075,RFI-02750,CO-00917,Potential Relationship,High,2025-04-03,Pricing support
+LNK-00609,PRJ-039,RFI-01451,CO-00496,Supporting Documentation,Medium,2025-12-10,Design clarification led to scope change
+LNK-00610,PRJ-053,RFI-01987,CO-00689,Supporting Documentation,Medium,2022-09-27,Field condition documented by RFI
+LNK-00611,PRJ-005,RFI-00154,CO-00055,Supporting Documentation,High,2024-06-22,Pricing support
+LNK-00612,PRJ-071,RFI-02576,CO-00875,Direct Cause,Medium,2023-01-07,Field condition documented by RFI
+LNK-00613,PRJ-056,RFI-02089,CO-00712,Supporting Documentation,Medium,2023-12-03,Design clarification led to scope change
+LNK-00615,PRJ-037,RFI-01420,CO-00470,Direct Cause,Medium,2024-08-12,Design clarification led to scope change
+LNK-00616,PRJ-057,RFI-02131,CO-00726,Direct Cause,Medium,2024-09-06,Field condition documented by RFI
+LNK-00617,PRJ-039,RFI-01450,CO-00495,Supporting Documentation,Medium,2025-06-02,Pricing support
+LNK-00618,PRJ-039,RFI-01476,CO-00495,Potential Relationship,Medium,2024-07-05,Schedule support
+LNK-00619,PRJ-061,RFI-02238,CO-00766,Direct Cause,High,2023-10-28,Design clarification led to scope change
+LNK-00620,PRJ-077,RFI-02827,CO-00957,Direct Cause,High,2023-07-05,Design clarification led to scope change
+LNK-00621,PRJ-080,RFI-02992,CO-00993,Direct Cause,Medium,2022-09-23,Field condition documented by RFI
+LNK-00622,PRJ-032,RFI-01209,CO-00415,Direct Cause,Medium,2024-05-24,Design clarification led to scope change
+LNK-00623,PRJ-024,RFI-00911,CO-00315,Supporting Documentation,High,2024-05-08,Pricing support
+LNK-00624,PRJ-055,RFI-02057,CO-00706,Direct Cause,Medium,2022-08-06,Related coordination issue
+LNK-00625,PRJ-069,RFI-02507,CO-00846,Supporting Documentation,Medium,2022-04-07,Pricing support
+LNK-00626,PRJ-081,RFI-03031,CO-01003,Related Scope,Medium,2025-02-08,Field condition documented by RFI
+LNK-00627,PRJ-014,RFI-00502,CO-00164,Direct Cause,Medium,2024-02-15,Field condition documented by RFI
+LNK-00628,PRJ-023,RFI-00892,CO-00301,Related Scope,Medium,2024-02-11,Related coordination issue
+LNK-00629,PRJ-063,RFI-02322,CO-00788,Direct Cause,Medium,2025-03-22,Schedule support
+LNK-00630,PRJ-006,RFI-00208,CO-00073,Supporting Documentation,High,2024-05-19,Design clarification led to scope change
+LNK-00631,PRJ-001,RFI-00013,CO-00006,Direct Cause,High,2024-08-30,Design clarification led to scope change
+LNK-00632,PRJ-078,RFI-02915,CO-00962,Related Scope,High,2024-02-06,Field condition documented by RFI
+LNK-00633,PRJ-067,RFI-02440,CO-00834,Related Scope,Medium,2023-03-06,Pricing support
+LNK-00634,PRJ-060,RFI-02231,CO-00753,Direct Cause,Medium,2023-04-17,Design clarification led to scope change
+LNK-00635,PRJ-045,RFI-01665,CO-00571,Supporting Documentation,Low,2024-06-18,Field condition documented by RFI
+LNK-00636,PRJ-075,RFI-02761,CO-00917,Direct Cause,Low,2025-04-03,Schedule support
+LNK-00637,PRJ-067,RFI-02434,CO-00832,Direct Cause,Medium,2022-08-11,Design clarification led to scope change
+LNK-00638,PRJ-064,RFI-02368,CO-00790,Related Scope,High,2024-07-23,Design clarification led to scope change
+LNK-00639,PRJ-062,RFI-02280,CO-00769,Potential Relationship,Medium,2023-11-22,Field condition documented by RFI
+LNK-00640,PRJ-053,RFI-01992,CO-00686,Supporting Documentation,Medium,2022-10-25,Pricing support
+LNK-00641,PRJ-042,RFI-01593,CO-00531,Supporting Documentation,Medium,2023-05-24,Field condition documented by RFI
+LNK-00642,PRJ-034,RFI-01282,CO-00438,Supporting Documentation,Medium,2025-07-24,Field condition documented by RFI
+LNK-00643,PRJ-062,RFI-02277,CO-00771,Supporting Documentation,Low,2023-08-18,Design clarification led to scope change
+LNK-00644,PRJ-074,RFI-02716,CO-00909,Direct Cause,High,2023-08-20,Pricing support
+LNK-00645,PRJ-027,RFI-01030,CO-00347,Related Scope,Medium,2022-07-04,Design clarification led to scope change
+LNK-00646,PRJ-036,RFI-01340,CO-00455,Supporting Documentation,Medium,2025-10-23,Field condition documented by RFI
+LNK-00647,PRJ-071,RFI-02567,CO-00872,Direct Cause,Medium,2023-12-01,Pricing support
+LNK-00648,PRJ-052,RFI-01948,CO-00667,Supporting Documentation,Medium,2024-09-05,Design clarification led to scope change
+LNK-00649,PRJ-056,RFI-02099,CO-00708,Direct Cause,Medium,2023-07-08,Related coordination issue
+LNK-00650,PRJ-035,RFI-01292,CO-00446,Supporting Documentation,Low,2024-09-02,Field condition documented by RFI
+LNK-00651,PRJ-071,RFI-02566,CO-00873,Supporting Documentation,Medium,2023-10-05,Related coordination issue
+LNK-00652,PRJ-008,RFI-00304,CO-00095,Direct Cause,Medium,2023-08-04,Field condition documented by RFI
+LNK-00653,PRJ-082,RFI-03079,CO-01025,Direct Cause,Medium,2025-01-21,Field condition documented by RFI
+LNK-00654,PRJ-020,RFI-00768,CO-00255,Related Scope,Low,2024-12-26,Pricing support
+LNK-00655,PRJ-023,RFI-00877,CO-00302,Related Scope,Medium,2024-08-10,Pricing support
+LNK-00656,PRJ-084,RFI-03116,CO-01039,Direct Cause,High,2025-09-14,Design clarification led to scope change
+LNK-00657,PRJ-080,RFI-02981,CO-00987,Related Scope,Medium,2022-08-07,Field condition documented by RFI
+LNK-00658,PRJ-052,RFI-01961,CO-00668,Direct Cause,Medium,2025-08-03,Pricing support
+LNK-00659,PRJ-043,RFI-01594,CO-00549,Supporting Documentation,Medium,2024-11-11,Design clarification led to scope change
+LNK-00660,PRJ-041,RFI-01559,CO-00512,Supporting Documentation,Medium,2023-01-29,Design clarification led to scope change
+LNK-00661,PRJ-003,RFI-00102,CO-00032,Supporting Documentation,Medium,2023-10-19,Related coordination issue
+LNK-00662,PRJ-002,RFI-00076,CO-00029,Direct Cause,Low,2023-04-21,Related coordination issue
+LNK-00663,PRJ-087,RFI-03207,CO-01076,Supporting Documentation,Medium,2025-08-27,Field condition documented by RFI
+LNK-00664,PRJ-027,RFI-01005,CO-00352,Supporting Documentation,Medium,2022-02-16,Related coordination issue
+LNK-00665,PRJ-044,RFI-01641,CO-00556,Related Scope,Medium,2025-04-25,Design clarification led to scope change
+LNK-00666,PRJ-050,RFI-01874,CO-00639,Direct Cause,High,2025-05-18,Design clarification led to scope change
+LNK-00667,PRJ-042,RFI-01580,CO-00523,Supporting Documentation,Medium,2023-10-19,Design clarification led to scope change
+LNK-00668,PRJ-023,RFI-00888,CO-00299,Related Scope,Medium,2024-10-23,Schedule support
+LNK-00669,PRJ-089,RFI-03268,CO-01096,Direct Cause,Medium,2024-11-23,Field condition documented by RFI
+LNK-00670,PRJ-076,RFI-02782,CO-00947,Supporting Documentation,High,2022-08-25,Design clarification led to scope change
+LNK-00671,PRJ-089,RFI-03268,CO-01094,Related Scope,High,2024-12-04,Schedule support
+LNK-00672,PRJ-051,RFI-01907,CO-00642,Potential Relationship,High,2023-04-27,Design clarification led to scope change
+LNK-00673,PRJ-001,RFI-00013,CO-00014,Direct Cause,High,2024-12-03,Pricing support
+LNK-00674,PRJ-083,RFI-03101,CO-01034,Direct Cause,High,2023-04-17,Design clarification led to scope change
+LNK-00675,PRJ-072,RFI-02639,CO-00880,Supporting Documentation,Medium,2023-10-28,Field condition documented by RFI
+LNK-00676,PRJ-008,RFI-00267,CO-00103,Direct Cause,High,2022-12-19,Related coordination issue
+LNK-00677,PRJ-007,RFI-00248,CO-00076,Supporting Documentation,Medium,2025-04-01,Design clarification led to scope change
+LNK-00678,PRJ-048,RFI-01782,CO-00612,Direct Cause,Low,2023-06-13,Field condition documented by RFI
+LNK-00679,PRJ-003,RFI-00102,CO-00036,Related Scope,High,2023-05-31,Pricing support
+LNK-00680,PRJ-079,RFI-02927,CO-00977,Related Scope,Medium,2024-02-11,Pricing support

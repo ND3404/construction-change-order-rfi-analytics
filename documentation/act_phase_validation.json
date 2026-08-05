@@ -1,0 +1,65 @@
+{
+  "project": "Construction Change Order and RFI Analytics",
+  "project_code": "IP-DA-002",
+  "phase": "Act",
+  "project_status": "Complete",
+  "phase_status": {
+    "Ask": "Complete",
+    "Prepare": "Complete",
+    "Process": "Complete",
+    "Analyze": "Complete",
+    "Share": "Complete",
+    "Act": "Complete"
+  },
+  "act_workbook": {
+    "path": "act/construction_change_order_rfi_act_plan.xlsx",
+    "size_bytes": 40304,
+    "sha256": "606ee1618ffac43c7efa9dcd807e2ef57212820a5697ebf37b3d0b5fc68b0ce1",
+    "sheet_scan": "{\"kind\":\"sheet\",\"id\":\"ws/caq77a\",\"name\":\"Lists\",\"index\":0,\"range\":\"A1:D7\",\"address\":\"A1:D7\"}\n{\"kind\":\"sheet\",\"id\":\"ws/r279l4\",\"name\":\"KPI_Targets\",\"index\":1,\"range\":\"A1:J16\",\"address\":\"A1:J16\"}\n{\"kind\":\"sheet\",\"id\":\"ws/5t93s1\",\"name\":\"Executive_Summary\",\"index\":2,\"range\":\"A1:J31\",\"address\":\"A1:J31\"}\n{\"kind\":\"sheet\",\"id\":\"ws/ku9ki7\",\"name\":\"30_60_90_Roadmap\",\"index\":3,\"range\":\"A1:H13\",\"address\":\"A1:H13\"}\n{\"kind\":\"sheet\",\"id\":\"ws/5c3da5\",\"name\":\"Action_Register\",\"index\":4,\"range\":\"A1:L21\",\"address\":\"A1:L21\"}\n{\"kind\":\"sheet\",\"id\":\"ws/taml5m\",\"name\":\"Governance_Cadence\",\"index\":5,\"range\":\"A1:I13\",\"address\":\"A1:I13\"}\n{\"kind\":\"sheet\",\"id\":\"ws/dp04ak\",\"name\":\"Top_10_Project_Actions\",\"index\":6,\"range\":\"A1:N15\",\"address\":\"A1:N15\"}\n{\"kind\":\"sheet\",\"id\":\"ws/rg668h\",\"name\":\"Control_Standards\",\"index\":7,\"range\":\"A1:H14\",\"address\":\"A1:H14\"}\n{\"kind\":\"sheet\",\"id\":\"ws/2dr15h\",\"name\":\"Automation_Alerts\",\"index\":8,\"range\":\"A1:I13\",\"address\":\"A1:I13\"}\n{\"kind\":\"sheet\",\"id\":\"ws/0pg6fs\",\"name\":\"RACI\",\"index\":9,\"range\":\"A1:I15\",\"address\":\"A1:I15\"}\n{\"kind\":\"sheet\",\"id\":\"ws/vh46o3\",\"name\":\"Benefits_Tracking\",\"index\":10,\"range\":\"A1:K13\",\"address\":\"A1:K13\"}\n{\"kind\":\"sheet\",\"id\":\"ws/vplvom\",\"name\":\"Sources\",\"index\":11,\"range\":\"A1:D18\",\"address\":\"A1:D18\"}",
+    "formula_error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  "automation": {
+    "script_passed": true,
+    "alert_summary": {
+      "Data_Cutoff": "2025-12-31",
+      "Alert_Count": 773,
+      "By_Severity": {
+        "Critical": 199,
+        "High": 574
+      },
+      "By_Type": {
+        "Field-Impact Overdue RFI": 71,
+        "High/Critical Overdue RFI": 84,
+        "Red Project": 29,
+        "High Pending Exposure": 15,
+        "Approved Not Incorporated": 56,
+        "Forecast Incorporation Lag": 299,
+        "Old Pending Change": 219
+      }
+    }
+  },
+  "final_report": {
+    "docx": {
+      "path": "reports/Construction_Change_Order_and_RFI_Analytics_Case_Study.docx",
+      "size_bytes": 968842,
+      "sha256": "97c1665b2958e061ff0048b0b46384e114b2aa5f98bc51c3bcea81510170ed53",
+      "rendered_pages_reviewed": 10
+    },
+    "pdf": {
+      "path": "reports/Construction_Change_Order_and_RFI_Analytics_Case_Study.pdf",
+      "size_bytes": 1011374,
+      "sha256": "59304d1ef6db6ef6e30cc27fbf327df6d2d1fd01a45cc4e508404d2f87ee9938"
+    }
+  },
+  "security": {
+    "secret_pattern_hits": [],
+    "passed": true
+  },
+  "controls": {
+    "synthetic_data_disclosure_retained": true,
+    "causal_claims_authorized": false,
+    "production_model_approved": false,
+    "live_schedule_created": false,
+    "project_1_files_modified": false
+  }
+}

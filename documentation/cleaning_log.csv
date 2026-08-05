@@ -1,0 +1,227 @@
+﻿Action_ID,Table,Record_ID,Field,Issue_Type,Raw_Value,Clean_Value,Action,Evidence,Disposition
+ACT-0001,Projects,PRJ-018,Project_ID,Exact duplicate,PRJ-018,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0002,Projects,PRJ-072,Project_ID,Exact duplicate,PRJ-072,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0003,RFI Log,RFI-00935,RFI_ID,Exact duplicate,RFI-00935,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0004,RFI Log,RFI-02126,RFI_ID,Exact duplicate,RFI-02126,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0005,RFI Log,RFI-00342,RFI_ID,Exact duplicate,RFI-00342,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0006,RFI Log,RFI-02847,RFI_ID,Exact duplicate,RFI-02847,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0007,RFI Log,RFI-00640,RFI_ID,Exact duplicate,RFI-00640,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0008,RFI Log,RFI-02709,RFI_ID,Exact duplicate,RFI-02709,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0009,RFI Log,RFI-01029,RFI_ID,Exact duplicate,RFI-01029,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0010,RFI Log,RFI-02818,RFI_ID,Exact duplicate,RFI-02818,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0011,Change Orders,CO-00138,Change_Order_ID,Exact duplicate,CO-00138,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0012,Change Orders,CO-00874,Change_Order_ID,Exact duplicate,CO-00874,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0013,Change Orders,CO-00143,Change_Order_ID,Exact duplicate,CO-00143,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0014,Change Orders,CO-00101,Change_Order_ID,Exact duplicate,CO-00101,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0015,Change Orders,CO-00967,Change_Order_ID,Exact duplicate,CO-00967,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0016,Workflow Events,EVT-009812,Event_ID,Exact duplicate,EVT-009812,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0017,Workflow Events,EVT-010703,Event_ID,Exact duplicate,EVT-010703,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0018,Workflow Events,EVT-005325,Event_ID,Exact duplicate,EVT-005325,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0019,Workflow Events,EVT-008161,Event_ID,Exact duplicate,EVT-008161,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0020,Workflow Events,EVT-001450,Event_ID,Exact duplicate,EVT-001450,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0021,Workflow Events,EVT-000818,Event_ID,Exact duplicate,EVT-000818,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0022,Workflow Events,EVT-008370,Event_ID,Exact duplicate,EVT-008370,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0023,Workflow Events,EVT-003752,Event_ID,Exact duplicate,EVT-003752,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0024,Workflow Events,EVT-007524,Event_ID,Exact duplicate,EVT-007524,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0025,Workflow Events,EVT-004141,Event_ID,Exact duplicate,EVT-004141,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0026,RFI Change Links,LNK-00111,Link_ID,Exact duplicate,LNK-00111,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0027,RFI Change Links,LNK-00119,Link_ID,Exact duplicate,LNK-00119,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0028,RFI Change Links,LNK-00055,Link_ID,Exact duplicate,LNK-00055,,Removed duplicate row,Exact duplicate primary key and identical row retained once,Removed
+ACT-0029,Projects,PRJ-017,Delivery_Method,Categorical standardization,DBB,Design-Bid-Build,Mapped to controlled delivery-method value,Controlled-value dictionary,Repaired
+ACT-0030,Projects,PRJ-030,Delivery_Method,Categorical standardization,Design Build,Design-Build,Mapped to controlled delivery-method value,Controlled-value dictionary,Repaired
+ACT-0031,Projects,PRJ-031,Delivery_Method,Categorical standardization,Integrated Project Delivery,IPD,Mapped to controlled delivery-method value,Controlled-value dictionary,Repaired
+ACT-0032,Projects,PRJ-045,Delivery_Method,Categorical standardization,Design Build,Design-Build,Mapped to controlled delivery-method value,Controlled-value dictionary,Repaired
+ACT-0033,Projects,PRJ-059,Delivery_Method,Categorical standardization,Integrated Project Delivery,IPD,Mapped to controlled delivery-method value,Controlled-value dictionary,Repaired
+ACT-0034,Projects,PRJ-065,Delivery_Method,Categorical standardization,DBB,Design-Bid-Build,Mapped to controlled delivery-method value,Controlled-value dictionary,Repaired
+ACT-0035,RFI Log,RFI-00299,Discipline,Categorical standardization,MECH,Mechanical,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0036,RFI Log,RFI-00501,Discipline,Categorical standardization,Fire Prot.,Fire Protection,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0037,RFI Log,RFI-00528,Discipline,Categorical standardization,electrical ,Electrical,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0038,RFI Log,RFI-00708,Discipline,Categorical standardization,electrical ,Electrical,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0039,RFI Log,RFI-01237,Discipline,Categorical standardization,Arch.,Architectural,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0040,RFI Log,RFI-01375,Discipline,Categorical standardization,STRUCTURAL,Structural,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0041,RFI Log,RFI-01416,Discipline,Categorical standardization,MECH,Mechanical,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0042,RFI Log,RFI-01466,Discipline,Categorical standardization,STRUCTURAL,Structural,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0043,RFI Log,RFI-01849,Discipline,Categorical standardization,STRUCTURAL,Structural,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0044,RFI Log,RFI-01895,Discipline,Categorical standardization,Specialty,Specialty Systems,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0045,RFI Log,RFI-02131,Discipline,Categorical standardization,STRUCTURAL,Structural,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0046,RFI Log,RFI-02633,Discipline,Categorical standardization,Specialty,Specialty Systems,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0047,RFI Log,RFI-02873,Discipline,Categorical standardization,MECH,Mechanical,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0048,RFI Log,RFI-02998,Discipline,Categorical standardization,electrical ,Electrical,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0049,RFI Log,RFI-03052,Discipline,Categorical standardization,Arch.,Architectural,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0050,RFI Log,RFI-03170,Discipline,Categorical standardization,Arch.,Architectural,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0051,RFI Log,RFI-03197,Discipline,Categorical standardization,Specialty,Specialty Systems,Mapped to controlled discipline value,Controlled-value dictionary,Repaired
+ACT-0052,Change Orders,CO-00015,Change_Category,Categorical standardization,VE,Value Engineering,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0053,Change Orders,CO-00144,Change_Category,Categorical standardization,VE,Value Engineering,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0054,Change Orders,CO-00318,Change_Category,Categorical standardization,Design E&O,Design Error or Omission,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0055,Change Orders,CO-00395,Change_Category,Categorical standardization,Owner Directed,Owner-Directed Change,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0056,Change Orders,CO-00427,Change_Category,Categorical standardization,Code / Regulatory,Code or Regulatory Requirement,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0057,Change Orders,CO-00432,Change_Category,Categorical standardization,Owner Directed,Owner-Directed Change,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0058,Change Orders,CO-00434,Change_Category,Categorical standardization,Unforeseen Conditions,Unforeseen Condition,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0059,Change Orders,CO-00452,Change_Category,Categorical standardization,VE,Value Engineering,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0060,Change Orders,CO-00505,Change_Category,Categorical standardization,VE,Value Engineering,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0061,Change Orders,CO-00646,Change_Category,Categorical standardization,Design E&O,Design Error or Omission,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0062,Change Orders,CO-00757,Change_Category,Categorical standardization,Unforeseen Conditions,Unforeseen Condition,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0063,Change Orders,CO-00801,Change_Category,Categorical standardization,Design E&O,Design Error or Omission,Mapped to controlled change-category value,Controlled-value dictionary,Repaired
+ACT-0064,RFI Log,RFI-01881,Final_Response_Date,Missing critical value,,2022-07-29,Reconstructed final response date,Final workflow event EVT-004202 at 2022-07-29T15:00,Repaired
+ACT-0065,RFI Log,RFI-02032,Final_Response_Date,Missing critical value,,2024-08-22,Reconstructed final response date,Final workflow event EVT-004547 at 2024-08-22T15:00,Repaired
+ACT-0066,RFI Log,RFI-01696,Final_Response_Date,Missing critical value,,2025-02-06,Reconstructed final response date,Final workflow event EVT-003796 at 2025-02-06T15:00,Repaired
+ACT-0067,RFI Log,RFI-02948,Final_Response_Date,Missing critical value,,2024-03-26,Reconstructed final response date,Final workflow event EVT-006590 at 2024-03-26T15:00,Repaired
+ACT-0068,RFI Log,RFI-02105,Final_Response_Date,Missing critical value,,2023-12-17,Reconstructed final response date,Final workflow event EVT-004709 at 2023-12-17T15:00,Repaired
+ACT-0069,RFI Log,RFI-03042,Final_Response_Date,Missing critical value,,2023-11-19,Reconstructed final response date,Final workflow event EVT-006800 at 2023-11-19T15:00,Repaired
+ACT-0070,RFI Log,RFI-03178,Final_Response_Date,Invalid date sequence,2023-09-28,2023-10-15,Reconstructed final response date,Final workflow event EVT-007106 at 2023-10-15T15:00,Repaired
+ACT-0071,RFI Log,RFI-02823,Final_Response_Date,Invalid date sequence,2023-03-07,2023-03-16,Reconstructed final response date,Final workflow event EVT-006309 at 2023-03-16T15:00,Repaired
+ACT-0072,RFI Log,RFI-01662,Final_Response_Date,Invalid date sequence,2024-05-30,2024-06-11,Reconstructed final response date,Final workflow event EVT-003721 at 2024-06-11T15:00,Repaired
+ACT-0073,RFI Log,RFI-01818,Final_Response_Date,Invalid date sequence,2024-03-19,2024-04-04,Reconstructed final response date,Final workflow event EVT-004061 at 2024-04-04T15:00,Repaired
+ACT-0074,RFI Log,RFI-01919,Final_Response_Date,Invalid date sequence,2023-03-21,2023-03-29,Reconstructed final response date,Final workflow event EVT-004291 at 2023-03-29T15:00,Repaired
+ACT-0075,RFI Log,RFI-00324,Actual_Cost_Impact,Invalid numeric value,-15000,15000,Corrected sign to positive impact amount,Cost_Impact_Flag = Yes and dataset uses positive impact convention,Repaired
+ACT-0076,RFI Log,RFI-00401,Actual_Cost_Impact,Invalid numeric value,-10000,10000,Corrected sign to positive impact amount,Cost_Impact_Flag = Yes and dataset uses positive impact convention,Repaired
+ACT-0077,RFI Log,RFI-03249,Actual_Cost_Impact,Invalid numeric value,-13000,13000,Corrected sign to positive impact amount,Cost_Impact_Flag = Yes and dataset uses positive impact convention,Repaired
+ACT-0078,Change Orders,CO-00455,Approved_Value,Missing critical value,,65000,Reconstructed approved value from final negotiated value,"Approved status, final pricing status, and populated negotiated value",Repaired
+ACT-0079,Change Orders,CO-00875,Approved_Value,Missing critical value,,0,Reconstructed approved value from final negotiated value,"Approved status, final pricing status, and populated negotiated value",Repaired
+ACT-0080,Change Orders,CO-00215,Approved_Value,Missing critical value,,116000,Reconstructed approved value from final negotiated value,"Approved status, final pricing status, and populated negotiated value",Repaired
+ACT-0081,Change Orders,CO-01057,Approved_Value,Missing critical value,,-710000,Reconstructed approved value from final negotiated value,"Approved status, final pricing status, and populated negotiated value",Repaired
+ACT-0082,Change Orders,CO-00177,Approved_Date,Invalid date sequence,2024-04-23,2024-05-03,Reconstructed approval date,Final approval workflow event EVT-008043 at 2024-05-03T15:00,Repaired
+ACT-0083,Change Orders,CO-00538,Approved_Date,Invalid date sequence,2023-06-17,2023-07-22,Reconstructed approval date,Final approval workflow event EVT-009293 at 2023-07-22T15:00,Repaired
+ACT-0084,Change Orders,CO-00011,Approved_Date,Invalid date sequence,2024-10-07,2024-10-31,Reconstructed approval date,Final approval workflow event EVT-007460 at 2024-10-31T15:00,Repaired
+ACT-0085,Change Orders,CO-01078,Approved_Date,Invalid date sequence,2024-03-01,2024-03-18,Reconstructed approval date,Final approval workflow event EVT-011154 at 2024-03-18T15:00,Repaired
+ACT-0086,Change Orders,CO-00912,Requested_Schedule_Days,Invalid numeric value,-5,5,Corrected sign to nonnegative requested extension,Change record uses extension-day convention,Repaired
+ACT-0087,Change Orders,CO-00706,Requested_Schedule_Days,Invalid numeric value,-1,1,Corrected sign to nonnegative requested extension,Change record uses extension-day convention,Repaired
+ACT-0088,Workflow Events,EVT-000488,Action_By_Role,Missing value,,General Contractor,Inferred workflow action role,RFI submission event matched Submitted_By_Role,Repaired
+ACT-0089,Workflow Events,EVT-004870,Action_By_Role,Missing value,,General Contractor,Inferred workflow action role,RFI submission event matched Submitted_By_Role,Repaired
+ACT-0090,Workflow Events,EVT-002066,Action_By_Role,Missing value,,Engineer,Inferred workflow action role,RFI response/return event matched Responsible_Role,Repaired
+ACT-0091,RFI Log,RFI-01941,Project_ID,Invalid foreign key,PRJ-999,,Quarantined record,Project_ID PRJ-999 does not exist in Projects,Quarantined
+ACT-0092,RFI Log,RFI-01963,Project_ID,Invalid foreign key,PRJ-999,,Quarantined record,Project_ID PRJ-999 does not exist in Projects,Quarantined
+ACT-0093,Change Orders,CO-00861,Project_ID,Invalid foreign key,PRJ-998,,Quarantined record,Project_ID PRJ-998 does not exist in Projects,Quarantined
+ACT-0094,Workflow Events,EVT-004340,Project_ID / Item_ID,Cascading referential integrity,PRJ-052 / RFI-01941,,Quarantined record,Item_ID RFI-01941 was quarantined or does not exist,Quarantined
+ACT-0095,Workflow Events,EVT-004341,Project_ID / Item_ID,Cascading referential integrity,PRJ-052 / RFI-01941,,Quarantined record,Item_ID RFI-01941 was quarantined or does not exist,Quarantined
+ACT-0096,Workflow Events,EVT-004342,Project_ID / Item_ID,Cascading referential integrity,PRJ-052 / RFI-01941,,Quarantined record,Item_ID RFI-01941 was quarantined or does not exist,Quarantined
+ACT-0097,Workflow Events,EVT-004389,Project_ID / Item_ID,Cascading referential integrity,PRJ-052 / RFI-01963,,Quarantined record,Item_ID RFI-01963 was quarantined or does not exist,Quarantined
+ACT-0098,Workflow Events,EVT-004390,Project_ID / Item_ID,Cascading referential integrity,PRJ-052 / RFI-01963,,Quarantined record,Item_ID RFI-01963 was quarantined or does not exist,Quarantined
+ACT-0099,Workflow Events,EVT-004391,Project_ID / Item_ID,Cascading referential integrity,PRJ-052 / RFI-01963,,Quarantined record,Item_ID RFI-01963 was quarantined or does not exist,Quarantined
+ACT-0100,Workflow Events,EVT-008070,Project_ID / Item_ID,Invalid foreign key,PRJ-997 / CO-00185,,Quarantined record,Project_ID PRJ-997 does not exist in Projects,Quarantined
+ACT-0101,Workflow Events,EVT-010411,Project_ID / Item_ID,Cascading referential integrity,PRJ-070 / CO-00861,,Quarantined record,Item_ID CO-00861 was quarantined or does not exist,Quarantined
+ACT-0102,Workflow Events,EVT-010412,Project_ID / Item_ID,Cascading referential integrity,PRJ-070 / CO-00861,,Quarantined record,Item_ID CO-00861 was quarantined or does not exist,Quarantined
+ACT-0103,Workflow Events,EVT-010413,Project_ID / Item_ID,Cascading referential integrity,PRJ-070 / CO-00861,,Quarantined record,Item_ID CO-00861 was quarantined or does not exist,Quarantined
+ACT-0104,Workflow Events,EVT-010414,Project_ID / Item_ID,Cascading referential integrity,PRJ-070 / CO-00861,,Quarantined record,Item_ID CO-00861 was quarantined or does not exist,Quarantined
+ACT-0105,Workflow Events,EVT-010898,Project_ID / Item_ID,Invalid foreign key,PRJ-997 / CO-01001,,Quarantined record,Project_ID PRJ-997 does not exist in Projects,Quarantined
+ACT-0106,RFI Change Links,LNK-00201,Project_ID / RFI_ID / Change_Order_ID,Invalid foreign key,PRJ-037 / RFI-99999 / CO-00467,,Quarantined record,RFI missing or quarantined,Quarantined
+ACT-0107,RFI Change Links,LNK-00293,Project_ID / RFI_ID / Change_Order_ID,Cascading referential integrity,PRJ-052 / RFI-01963 / CO-00666,,Quarantined record,RFI missing or quarantined,Quarantined
+ACT-0108,RFI Change Links,LNK-00614,Project_ID / RFI_ID / Change_Order_ID,Invalid foreign key,PRJ-027 / RFI-99999 / CO-00342,,Quarantined record,RFI missing or quarantined,Quarantined
+ACT-0109,Workflow Events,EVT-000241,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00107,Repaired
+ACT-0110,Workflow Events,EVT-000240,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00107,Repaired
+ACT-0111,Workflow Events,EVT-000251,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00111,Repaired
+ACT-0112,Workflow Events,EVT-000250,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00111,Repaired
+ACT-0113,Workflow Events,EVT-000406,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00184,Repaired
+ACT-0114,Workflow Events,EVT-000405,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00184,Repaired
+ACT-0115,Workflow Events,EVT-000487,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00220,Repaired
+ACT-0116,Workflow Events,EVT-000486,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00220,Repaired
+ACT-0117,Workflow Events,EVT-000492,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00222,Repaired
+ACT-0118,Workflow Events,EVT-000491,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00222,Repaired
+ACT-0119,Workflow Events,EVT-000779,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00349,Repaired
+ACT-0120,Workflow Events,EVT-000778,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00349,Repaired
+ACT-0121,Workflow Events,EVT-001258,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00564,Repaired
+ACT-0122,Workflow Events,EVT-001257,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00564,Repaired
+ACT-0123,Workflow Events,EVT-001337,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00596,Repaired
+ACT-0124,Workflow Events,EVT-001336,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00596,Repaired
+ACT-0125,Workflow Events,EVT-001965,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00885,Repaired
+ACT-0126,Workflow Events,EVT-001964,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00885,Repaired
+ACT-0127,Workflow Events,EVT-002075,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00932,Repaired
+ACT-0128,Workflow Events,EVT-002074,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00932,Repaired
+ACT-0129,Workflow Events,EVT-002112,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00948,Repaired
+ACT-0130,Workflow Events,EVT-002111,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00948,Repaired
+ACT-0131,Workflow Events,EVT-002151,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00965,Repaired
+ACT-0132,Workflow Events,EVT-002150,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-00965,Repaired
+ACT-0133,Workflow Events,EVT-002515,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01126,Repaired
+ACT-0134,Workflow Events,EVT-002514,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01126,Repaired
+ACT-0135,Workflow Events,EVT-002566,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01149,Repaired
+ACT-0136,Workflow Events,EVT-002565,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01149,Repaired
+ACT-0137,Workflow Events,EVT-002791,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01250,Repaired
+ACT-0138,Workflow Events,EVT-002790,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01250,Repaired
+ACT-0139,Workflow Events,EVT-003392,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01517,Repaired
+ACT-0140,Workflow Events,EVT-003391,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01517,Repaired
+ACT-0141,Workflow Events,EVT-003434,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01535,Repaired
+ACT-0142,Workflow Events,EVT-003433,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01535,Repaired
+ACT-0143,Workflow Events,EVT-003667,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01636,Repaired
+ACT-0144,Workflow Events,EVT-003666,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01636,Repaired
+ACT-0145,Workflow Events,EVT-003690,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01647,Repaired
+ACT-0146,Workflow Events,EVT-003689,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01647,Repaired
+ACT-0147,Workflow Events,EVT-003759,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01678,Repaired
+ACT-0148,Workflow Events,EVT-003758,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01678,Repaired
+ACT-0149,Workflow Events,EVT-004117,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01843,Repaired
+ACT-0150,Workflow Events,EVT-004116,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01843,Repaired
+ACT-0151,Workflow Events,EVT-004131,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01849,Repaired
+ACT-0152,Workflow Events,EVT-004130,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01849,Repaired
+ACT-0153,Workflow Events,EVT-004211,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01884,Repaired
+ACT-0154,Workflow Events,EVT-004210,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01884,Repaired
+ACT-0155,Workflow Events,EVT-004249,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01901,Repaired
+ACT-0156,Workflow Events,EVT-004248,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01901,Repaired
+ACT-0157,Workflow Events,EVT-004252,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01902,Repaired
+ACT-0158,Workflow Events,EVT-004251,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01902,Repaired
+ACT-0159,Workflow Events,EVT-004294,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01920,Repaired
+ACT-0160,Workflow Events,EVT-004293,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01920,Repaired
+ACT-0161,Workflow Events,EVT-004436,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01983,Repaired
+ACT-0162,Workflow Events,EVT-004435,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-01983,Repaired
+ACT-0163,Workflow Events,EVT-005444,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-02443,Repaired
+ACT-0164,Workflow Events,EVT-005443,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-02443,Repaired
+ACT-0165,Workflow Events,EVT-006221,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-02784,Repaired
+ACT-0166,Workflow Events,EVT-006220,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-02784,Repaired
+ACT-0167,Workflow Events,EVT-006506,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-02910,Repaired
+ACT-0168,Workflow Events,EVT-006505,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-02910,Repaired
+ACT-0169,Workflow Events,EVT-006746,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-03018,Repaired
+ACT-0170,Workflow Events,EVT-006745,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-03018,Repaired
+ACT-0171,Workflow Events,EVT-006782,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-03034,Repaired
+ACT-0172,Workflow Events,EVT-006781,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-03034,Repaired
+ACT-0173,Workflow Events,EVT-006955,Event_Sequence,Discovered sequence inconsistency,3,2,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-03109,Repaired
+ACT-0174,Workflow Events,EVT-006954,Event_Sequence,Discovered sequence inconsistency,2,3,Renumbered event sequence by timestamp,Chronological normalization for RFI RFI-03109,Repaired
+ACT-0175,Workflow Events,EVT-007638,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00063,Repaired
+ACT-0176,Workflow Events,EVT-007637,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00063,Repaired
+ACT-0177,Workflow Events,EVT-007893,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00134,Repaired
+ACT-0178,Workflow Events,EVT-007892,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00134,Repaired
+ACT-0179,Workflow Events,EVT-007968,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00155,Repaired
+ACT-0180,Workflow Events,EVT-007967,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00155,Repaired
+ACT-0181,Workflow Events,EVT-008159,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00209,Repaired
+ACT-0182,Workflow Events,EVT-008158,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00209,Repaired
+ACT-0183,Workflow Events,EVT-008421,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00286,Repaired
+ACT-0184,Workflow Events,EVT-008420,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00286,Repaired
+ACT-0185,Workflow Events,EVT-008568,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00329,Repaired
+ACT-0186,Workflow Events,EVT-008567,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00329,Repaired
+ACT-0187,Workflow Events,EVT-008625,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00346,Repaired
+ACT-0188,Workflow Events,EVT-008624,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00346,Repaired
+ACT-0189,Workflow Events,EVT-008867,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00417,Repaired
+ACT-0190,Workflow Events,EVT-008866,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00417,Repaired
+ACT-0191,Workflow Events,EVT-008954,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00442,Repaired
+ACT-0192,Workflow Events,EVT-008953,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00442,Repaired
+ACT-0193,Workflow Events,EVT-009055,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00471,Repaired
+ACT-0194,Workflow Events,EVT-009054,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00471,Repaired
+ACT-0195,Workflow Events,EVT-009182,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00507,Repaired
+ACT-0196,Workflow Events,EVT-009181,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00507,Repaired
+ACT-0197,Workflow Events,EVT-009226,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00519,Repaired
+ACT-0198,Workflow Events,EVT-009225,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00519,Repaired
+ACT-0199,Workflow Events,EVT-009448,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00583,Repaired
+ACT-0200,Workflow Events,EVT-009447,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00583,Repaired
+ACT-0201,Workflow Events,EVT-009554,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00614,Repaired
+ACT-0202,Workflow Events,EVT-009553,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00614,Repaired
+ACT-0203,Workflow Events,EVT-009864,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00702,Repaired
+ACT-0204,Workflow Events,EVT-009863,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00702,Repaired
+ACT-0205,Workflow Events,EVT-009901,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00712,Repaired
+ACT-0206,Workflow Events,EVT-009900,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00712,Repaired
+ACT-0207,Workflow Events,EVT-009909,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00714,Repaired
+ACT-0208,Workflow Events,EVT-009908,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00714,Repaired
+ACT-0209,Workflow Events,EVT-009987,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00736,Repaired
+ACT-0210,Workflow Events,EVT-009986,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00736,Repaired
+ACT-0211,Workflow Events,EVT-009991,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00737,Repaired
+ACT-0212,Workflow Events,EVT-009990,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00737,Repaired
+ACT-0213,Workflow Events,EVT-010181,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00794,Repaired
+ACT-0214,Workflow Events,EVT-010180,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00794,Repaired
+ACT-0215,Workflow Events,EVT-010209,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00802,Repaired
+ACT-0216,Workflow Events,EVT-010208,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00802,Repaired
+ACT-0217,Workflow Events,EVT-010629,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00923,Repaired
+ACT-0218,Workflow Events,EVT-010628,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00923,Repaired
+ACT-0219,Workflow Events,EVT-010833,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00982,Repaired
+ACT-0220,Workflow Events,EVT-010832,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-00982,Repaired
+ACT-0221,Workflow Events,EVT-010978,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-01025,Repaired
+ACT-0222,Workflow Events,EVT-010977,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-01025,Repaired
+ACT-0223,Workflow Events,EVT-011169,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-01082,Repaired
+ACT-0224,Workflow Events,EVT-011168,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-01082,Repaired
+ACT-0225,Workflow Events,EVT-011224,Event_Sequence,Discovered sequence inconsistency,4,3,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-01099,Repaired
+ACT-0226,Workflow Events,EVT-011223,Event_Sequence,Discovered sequence inconsistency,3,4,Renumbered event sequence by timestamp,Chronological normalization for Change Order CO-01099,Repaired

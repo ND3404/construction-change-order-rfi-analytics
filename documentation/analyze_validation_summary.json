@@ -1,0 +1,85 @@
+{
+  "project_code": "IP-DA-002",
+  "phase": "Analyze",
+  "status": "Complete",
+  "projects": 90,
+  "rfi": {
+    "Total_RFI": 3318,
+    "Responded_RFI": 3019,
+    "Open_RFI": 299,
+    "Avg_Response_Days": 12.213315667439549,
+    "On_Time_RFI": 1379,
+    "Late_RFI": 1640,
+    "Overdue_Open_RFI": 295,
+    "Open_Not_Due_RFI": 4,
+    "Linked_RFI": 569,
+    "Cost_Impacted_RFI": 746,
+    "Schedule_Impacted_RFI": 562,
+    "Actual_RFI_Cost_Impact": 29608500.0,
+    "Actual_RFI_Schedule_Days": 2572,
+    "Avg_Response_Quality": 4.438818565400844,
+    "Median_Response_Days": 10,
+    "On_Time_Rate_Pct": 45.6773766147731,
+    "RFI_to_Change_Rate_Pct": 17.148884870403858
+  },
+  "change_orders": {
+    "Total_Changes": 1119,
+    "Approved_Changes": 706,
+    "Rejected_Changes": 113,
+    "Withdrawn_Changes": 79,
+    "Pending_Changes": 221,
+    "Approved_Value": 204568300.0,
+    "Pending_Exposure": 88104000.0,
+    "Avg_Approval_Days": 28.906515580736542,
+    "Avg_Forecast_Lag": 6.578461538461538,
+    "Linked_Changes": 577,
+    "Approved_Schedule_Days": 1538,
+    "Old_Pending_Count": 219,
+    "Old_Pending_Exposure": 85476000.0,
+    "Approved_Not_Incorporated": 56,
+    "Median_Approval_Days": 25.0,
+    "Median_Forecast_Lag_Days": 5.0
+  },
+  "conversion": {
+    "Link_Count": 677,
+    "Linked_RFI_Count": 569,
+    "Linked_Change_Count": 577,
+    "Avg_Identification_Lag_Days": 48.129985228951256,
+    "Avg_Submission_Lag_Days": 55.25258493353028,
+    "Linked_Approved_Value": 113056700.0,
+    "Linked_Approved_Schedule_Days": 633,
+    "Median_Identification_Lag_Days": 47,
+    "Median_Submission_Lag_Days": 54
+  },
+  "project_health": {
+    "Red": 29,
+    "Yellow": 48,
+    "Green": 13
+  },
+  "strongest_tested_relationship": {
+    "relationship": "Project average RFI response vs average change approval cycle",
+    "pearson_r": 0.8172290874113829,
+    "r_squared": 0.6678633813112417,
+    "p_value": 8.9472646960944e-23
+  },
+  "exploratory_models": [
+    {
+      "Model": "Submission-only exploratory logistic model",
+      "Available_Information": "Priority, RFI type, discipline, roles, drawing count, project attributes",
+      "Mean_CV_AUC": 0.5096,
+      "Std_CV_AUC": 0.0206,
+      "Fold_AUCs": "0.4965; 0.4893; 0.5319; 0.5372; 0.4932",
+      "Interpretation": "Performance is near chance; submission attributes alone do not identify later change linkage in this synthetic portfolio.",
+      "Production_Use": "No"
+    },
+    {
+      "Model": "Diagnostic exploratory logistic model",
+      "Available_Information": "Submission attributes plus response, revision, quality, and impact indicators",
+      "Mean_CV_AUC": 0.6311,
+      "Std_CV_AUC": 0.0307,
+      "Fold_AUCs": "0.6375; 0.6451; 0.6686; 0.5758; 0.6284",
+      "Interpretation": "Post-submission workflow and impact indicators improve discrimination, but performance remains moderate.",
+      "Production_Use": "No"
+    }
+  ]
+}

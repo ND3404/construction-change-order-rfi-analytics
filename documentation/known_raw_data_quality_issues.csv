@@ -1,0 +1,98 @@
+﻿Table,Issue_Type,Record_ID,Field,Detail,Expected_Process_Treatment
+RFI Log,Categorical standardization,RFI-01375,Discipline,Variant of Structural,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-00299,Discipline,Variant of Mechanical,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-02633,Discipline,Variant of Specialty Systems,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-01237,Discipline,Variant of Architectural,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-01895,Discipline,Variant of Specialty Systems,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-02998,Discipline,Variant of Electrical,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-02131,Discipline,Variant of Structural,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-00708,Discipline,Variant of Electrical,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-01849,Discipline,Variant of Structural,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-03052,Discipline,Variant of Architectural,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-01466,Discipline,Variant of Structural,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-01416,Discipline,Variant of Mechanical,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-02873,Discipline,Variant of Mechanical,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-03197,Discipline,Variant of Specialty Systems,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-03170,Discipline,Variant of Architectural,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-00501,Discipline,Variant of Fire Protection,Standardize to controlled value.
+RFI Log,Categorical standardization,RFI-00528,Discipline,Variant of Electrical,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00757,Change_Category,Variant of Unforeseen Condition,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00015,Change_Category,Variant of Value Engineering,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00801,Change_Category,Variant of Design Error or Omission,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00427,Change_Category,Variant of Code or Regulatory Requirement,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00395,Change_Category,Variant of Owner-Directed Change,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00432,Change_Category,Variant of Owner-Directed Change,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00646,Change_Category,Variant of Design Error or Omission,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00505,Change_Category,Variant of Value Engineering,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00452,Change_Category,Variant of Value Engineering,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00318,Change_Category,Variant of Design Error or Omission,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00144,Change_Category,Variant of Value Engineering,Standardize to controlled value.
+Change Orders,Categorical standardization,CO-00434,Change_Category,Variant of Unforeseen Condition,Standardize to controlled value.
+Projects,Categorical standardization,PRJ-045,Delivery_Method,Variant of Design-Build,Standardize to controlled value.
+Projects,Categorical standardization,PRJ-065,Delivery_Method,Variant of Design-Bid-Build,Standardize to controlled value.
+Projects,Categorical standardization,PRJ-031,Delivery_Method,Variant of IPD,Standardize to controlled value.
+Projects,Categorical standardization,PRJ-017,Delivery_Method,Variant of Design-Bid-Build,Standardize to controlled value.
+Projects,Categorical standardization,PRJ-030,Delivery_Method,Variant of Design-Build,Standardize to controlled value.
+Projects,Categorical standardization,PRJ-059,Delivery_Method,Variant of IPD,Standardize to controlled value.
+RFI Log,Missing critical value,RFI-01881,Final_Response_Date,Closed/answered RFI missing final response date.,Reconstruct from workflow event when unambiguous.
+RFI Log,Missing critical value,RFI-02032,Final_Response_Date,Closed/answered RFI missing final response date.,Reconstruct from workflow event when unambiguous.
+RFI Log,Missing critical value,RFI-01696,Final_Response_Date,Closed/answered RFI missing final response date.,Reconstruct from workflow event when unambiguous.
+RFI Log,Missing critical value,RFI-02948,Final_Response_Date,Closed/answered RFI missing final response date.,Reconstruct from workflow event when unambiguous.
+RFI Log,Missing critical value,RFI-02105,Final_Response_Date,Closed/answered RFI missing final response date.,Reconstruct from workflow event when unambiguous.
+RFI Log,Missing critical value,RFI-03042,Final_Response_Date,Closed/answered RFI missing final response date.,Reconstruct from workflow event when unambiguous.
+Change Orders,Missing critical value,CO-00455,Approved_Value,Approved change missing approved value.,Reconstruct from final negotiated value when evidence is consistent.
+Change Orders,Missing critical value,CO-00875,Approved_Value,Approved change missing approved value.,Reconstruct from final negotiated value when evidence is consistent.
+Change Orders,Missing critical value,CO-00215,Approved_Value,Approved change missing approved value.,Reconstruct from final negotiated value when evidence is consistent.
+Change Orders,Missing critical value,CO-01057,Approved_Value,Approved change missing approved value.,Reconstruct from final negotiated value when evidence is consistent.
+Workflow Events,Missing value,EVT-000488,Action_By_Role,Workflow event missing action role.,Infer only from adjacent documented transition when unambiguous; otherwise mark Unknown.
+Workflow Events,Missing value,EVT-004870,Action_By_Role,Workflow event missing action role.,Infer only from adjacent documented transition when unambiguous; otherwise mark Unknown.
+Workflow Events,Missing value,EVT-002066,Action_By_Role,Workflow event missing action role.,Infer only from adjacent documented transition when unambiguous; otherwise mark Unknown.
+RFI Log,Invalid date sequence,RFI-03178,Final_Response_Date,Final response occurs before submission.,Repair using workflow event or quarantine if evidence conflicts.
+RFI Log,Invalid date sequence,RFI-02823,Final_Response_Date,Final response occurs before submission.,Repair using workflow event or quarantine if evidence conflicts.
+RFI Log,Invalid date sequence,RFI-01662,Final_Response_Date,Final response occurs before submission.,Repair using workflow event or quarantine if evidence conflicts.
+RFI Log,Invalid date sequence,RFI-01818,Final_Response_Date,Final response occurs before submission.,Repair using workflow event or quarantine if evidence conflicts.
+RFI Log,Invalid date sequence,RFI-01919,Final_Response_Date,Final response occurs before submission.,Repair using workflow event or quarantine if evidence conflicts.
+Change Orders,Invalid date sequence,CO-00177,Approved_Date,Approval occurs before submission.,Repair using final approval workflow event.
+Change Orders,Invalid date sequence,CO-00538,Approved_Date,Approval occurs before submission.,Repair using final approval workflow event.
+Change Orders,Invalid date sequence,CO-00011,Approved_Date,Approval occurs before submission.,Repair using final approval workflow event.
+Change Orders,Invalid date sequence,CO-01078,Approved_Date,Approval occurs before submission.,Repair using final approval workflow event.
+RFI Log,Invalid numeric value,RFI-00324,Actual_Cost_Impact,Negative cost impact on a record marked as positive impact.,Review sign convention and correct to positive impact amount.
+RFI Log,Invalid numeric value,RFI-00401,Actual_Cost_Impact,Negative cost impact on a record marked as positive impact.,Review sign convention and correct to positive impact amount.
+RFI Log,Invalid numeric value,RFI-03249,Actual_Cost_Impact,Negative cost impact on a record marked as positive impact.,Review sign convention and correct to positive impact amount.
+Change Orders,Invalid numeric value,CO-00912,Requested_Schedule_Days,Negative requested schedule days.,Correct sign when supporting fields confirm an extension request.
+Change Orders,Invalid numeric value,CO-00706,Requested_Schedule_Days,Negative requested schedule days.,Correct sign when supporting fields confirm an extension request.
+RFI Log,Invalid foreign key,RFI-01941,Project_ID,Project_ID does not exist in Projects.,Quarantine record; do not guess parent.
+RFI Log,Invalid foreign key,RFI-01963,Project_ID,Project_ID does not exist in Projects.,Quarantine record; do not guess parent.
+Change Orders,Invalid foreign key,CO-00861,Project_ID,Project_ID does not exist in Projects.,Quarantine record; do not guess parent.
+Workflow Events,Invalid foreign key,EVT-008070,Project_ID,Project_ID does not exist in Projects.,Quarantine record; do not guess parent.
+Workflow Events,Invalid foreign key,EVT-010898,Project_ID,Project_ID does not exist in Projects.,Quarantine record; do not guess parent.
+RFI Change Links,Invalid foreign key,LNK-00614,RFI_ID,RFI_ID does not exist in RFI Log.,Quarantine link record.
+RFI Change Links,Invalid foreign key,LNK-00201,RFI_ID,RFI_ID does not exist in RFI Log.,Quarantine link record.
+Projects,Exact duplicate,PRJ-018,Project_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Projects,Exact duplicate,PRJ-072,Project_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Log,Exact duplicate,RFI-00935,RFI_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Log,Exact duplicate,RFI-02126,RFI_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Log,Exact duplicate,RFI-00342,RFI_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Log,Exact duplicate,RFI-02847,RFI_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Log,Exact duplicate,RFI-00640,RFI_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Log,Exact duplicate,RFI-02709,RFI_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Log,Exact duplicate,RFI-01029,RFI_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Log,Exact duplicate,RFI-02818,RFI_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Change Orders,Exact duplicate,CO-00138,Change_Order_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Change Orders,Exact duplicate,CO-00874,Change_Order_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Change Orders,Exact duplicate,CO-00143,Change_Order_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Change Orders,Exact duplicate,CO-00101,Change_Order_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Change Orders,Exact duplicate,CO-00967,Change_Order_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Workflow Events,Exact duplicate,EVT-009812,Event_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Workflow Events,Exact duplicate,EVT-010703,Event_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Workflow Events,Exact duplicate,EVT-005325,Event_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Workflow Events,Exact duplicate,EVT-008161,Event_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Workflow Events,Exact duplicate,EVT-001450,Event_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Workflow Events,Exact duplicate,EVT-000818,Event_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Workflow Events,Exact duplicate,EVT-008370,Event_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Workflow Events,Exact duplicate,EVT-003752,Event_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Workflow Events,Exact duplicate,EVT-007524,Event_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+Workflow Events,Exact duplicate,EVT-004141,Event_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Change Links,Exact duplicate,LNK-00111,Link_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Change Links,Exact duplicate,LNK-00119,Link_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.
+RFI Change Links,Exact duplicate,LNK-00055,Link_ID,Exact duplicate row appended to raw dataset.,Remove duplicate while retaining one canonical record.

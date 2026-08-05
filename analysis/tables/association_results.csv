@@ -1,0 +1,12 @@
+﻿Relationship,Method,Statistic,P_Value,N,Interpretation
+RFI response days vs cost-impact flag,Point-biserial r,0.2891,3.2755833348079883e-59,3019,Longer response time shows a moderate positive association with cost impact.
+RFI response days vs schedule-impact flag,Point-biserial r,0.2336,1.062218891934284e-38,3019,Longer response time shows a modest positive association with schedule impact.
+RFI response days vs linked-to-change flag,Point-biserial r,0.0431,0.017754746060539915,3019,Response time alone has only a weak association with later change linkage.
+RFI revision count vs response days,Spearman rho,0.4315,3.441198842526866e-137,3019,More revision activity is moderately associated with longer response cycles.
+RFI reopen count vs response days,Spearman rho,0.265,1.0601705450064105e-49,3019,Reopened RFIs are associated with longer response cycles.
+RFI response quality vs response days,Spearman rho,-0.5102,8.706704941950853e-200,3019,Longer response cycles are associated with lower response-quality ratings in the synthetic data.
+Change revision count vs approval days,Spearman rho,0.4683,9.057952799274925e-40,706,More change revisions are moderately associated with longer approval cycles.
+Change submitted value vs approval days,Spearman rho,0.0222,0.5565908941902845,706,Change size has little association with approval cycle in this portfolio.
+Change linked-to-RFI flag vs approval days,Point-biserial r,0.001,0.9780864441343923,706,Linked and unlinked changes have essentially the same approval-cycle distribution.
+Project average RFI response vs average change approval cycle,Pearson r,0.8172,8.9472646960944e-23,90,Projects with slower RFI response also tend to have slower change approval; this is the strongest tested portfolio-level relationship.
+Project average RFI response vs average change approval cycle,Spearman rho,0.8038,1.4812439149790831e-21,90,The strong monotonic relationship is consistent with the Pearson result.

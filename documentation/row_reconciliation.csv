@@ -1,0 +1,6 @@
+﻿Table,Raw_Rows,Duplicate_Removals,Quarantined_Rows,Clean_Rows,Reconciled
+Projects,92,2,0,90,Yes
+RFI Log,3328,8,2,3318,Yes
+Change Orders,1125,5,1,1119,Yes
+Workflow Events,11308,10,12,11286,Yes
+RFI Change Links,683,3,3,677,Yes

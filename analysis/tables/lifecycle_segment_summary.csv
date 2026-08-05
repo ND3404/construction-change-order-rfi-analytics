@@ -1,0 +1,7 @@
+﻿Segment_Type,Segment,RFI_Count,Avg_RFI_Response_Days,On_Time_Rate_Pct,Change_Count,Avg_Approval_Cycle_Days,Pending_Exposure
+Owner Decision Profile,Fast,597,10.4,52.8,197,24.36,12516000.0
+Owner Decision Profile,Standard,1905,11.01,51.5,623,26.01,52494000.0
+Owner Decision Profile,Slow,816,16.45,26.3,299,37.98,23094000.0
+Digital Coordination Level,High,881,9.55,62.0,304,26.39,25448200.0
+Digital Coordination Level,Moderate,1675,12.63,42.5,567,30.02,48307800.0
+Digital Coordination Level,Low,762,14.39,33.6,248,29.29,14348000.0

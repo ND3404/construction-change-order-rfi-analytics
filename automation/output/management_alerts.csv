@@ -1,0 +1,774 @@
+﻿Alert_Type,Severity,Project_ID,Item_ID,Project_Name,Condition,Current_Value,Threshold,Owner_Role,Required_Action
+Field-Impact Overdue RFI,Critical,PRJ-002,RFI-00047,,Open field-impact RFI overdue by 775 days,775,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-002,RFI-00066,,Open field-impact RFI overdue by 811 days,811,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-002,RFI-00072,,Open field-impact RFI overdue by 1093 days,1093,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-002,RFI-00047,,High RFI overdue by 775 days,775,7,Design Manager,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-002,RFI-00066,,High RFI overdue by 811 days,811,7,Owner Representative,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-002,RFI-00072,,High RFI overdue by 1093 days,1093,7,Architect,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-002,RFI-00074,,Critical RFI overdue by 853 days,853,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-002,RFI-00077,,Critical RFI overdue by 558 days,558,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-002,RFI-00088,,Critical RFI overdue by 837 days,837,7,Design Manager,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-002,PRJ-002,Northstar Bridge Rehabilitation,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-003,RFI-00111,,Open field-impact RFI overdue by 1377 days,1377,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-003,RFI-00107,,High RFI overdue by 1095 days,1095,7,Architect,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-004,RFI-00126,,Open field-impact RFI overdue by 423 days,423,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-004,RFI-00143,,High RFI overdue by 155 days,155,7,Engineer,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-006,RFI-00189,,Open field-impact RFI overdue by 1205 days,1205,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High Pending Exposure,Critical,PRJ-006,PRJ-006,Summit Corporate Center,Pending exposure is 2.66% of project budget,2.658,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-006,RFI-00183,,High RFI overdue by 1270 days,1270,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-006,RFI-00189,,High RFI overdue by 1205 days,1205,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-006,RFI-00206,,Critical RFI overdue by 1123 days,1123,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-006,PRJ-006,Summit Corporate Center,Workflow risk score 10 (Red),10,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-007,RFI-00222,,Open field-impact RFI overdue by 7 days,7,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-008,RFI-00287,,Open field-impact RFI overdue by 802 days,802,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-008,RFI-00295,,Open field-impact RFI overdue by 944 days,944,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-008,RFI-00305,,Open field-impact RFI overdue by 1430 days,1430,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-008,RFI-00287,,High RFI overdue by 802 days,802,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-008,PRJ-008,Sunset Processing Plant,Workflow risk score 7 (Red),7,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High/Critical Overdue RFI,Critical,PRJ-009,RFI-00320,,High RFI overdue by 1164 days,1164,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-011,RFI-00369,,High RFI overdue by 1176 days,1176,7,Construction Manager,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-012,RFI-00395,,Open field-impact RFI overdue by 298 days,298,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-012,RFI-00407,,Open field-impact RFI overdue by 155 days,155,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-012,RFI-00423,,Open field-impact RFI overdue by 5 days,5,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-012,RFI-00439,,Open field-impact RFI overdue by 9 days,9,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-012,RFI-00395,,Critical RFI overdue by 298 days,298,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-012,PRJ-012,Canyon Corporate Center,Workflow risk score 7 (Red),7,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-013,RFI-00456,,Open field-impact RFI overdue by 856 days,856,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-013,RFI-00470,,Open field-impact RFI overdue by 904 days,904,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-013,RFI-00456,,Critical RFI overdue by 856 days,856,7,Construction Manager,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-013,RFI-00470,,High RFI overdue by 904 days,904,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-013,RFI-00483,,High RFI overdue by 1363 days,1363,7,Owner Representative,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-013,PRJ-013,Aspen Civic Complex 2,Workflow risk score 9 (Red),9,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-016,RFI-00580,,Open field-impact RFI overdue by 518 days,518,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High Pending Exposure,Critical,PRJ-016,PRJ-016,Evergreen Town Center,Pending exposure is 1.83% of project budget,1.834,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-016,RFI-00564,,High RFI overdue by 1188 days,1188,7,Architect,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-016,PRJ-016,Evergreen Town Center,Workflow risk score 8 (Red),8,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-017,RFI-00596,,Open field-impact RFI overdue by 1022 days,1022,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-017,RFI-00606,,Open field-impact RFI overdue by 1362 days,1362,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-017,RFI-00608,,Open field-impact RFI overdue by 897 days,897,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-017,RFI-00628,,Open field-impact RFI overdue by 1063 days,1063,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-017,RFI-00608,,High RFI overdue by 897 days,897,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-017,RFI-00645,,High RFI overdue by 880 days,880,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-017,PRJ-017,Mountain Gate Transit Center,Workflow risk score 8 (Red),8,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High/Critical Overdue RFI,Critical,PRJ-018,RFI-00648,,Critical RFI overdue by 1307 days,1307,7,Architect,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-018,RFI-00655,,High RFI overdue by 1327 days,1327,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-018,RFI-00661,,High RFI overdue by 1371 days,1371,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-018,RFI-00688,,High RFI overdue by 1374 days,1374,7,Architect,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-019,RFI-00725,,Open field-impact RFI overdue by 1056 days,1056,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-019,RFI-00718,,Critical RFI overdue by 526 days,526,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-019,RFI-00721,,High RFI overdue by 1014 days,1014,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-019,RFI-00725,,Critical RFI overdue by 1056 days,1056,7,Owner Representative,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-019,RFI-00729,,High RFI overdue by 478 days,478,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-019,PRJ-019,Pioneer Research Center,Workflow risk score 8 (Red),8,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-021,RFI-00804,,Open field-impact RFI overdue by 716 days,716,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-021,RFI-00804,,Critical RFI overdue by 716 days,716,7,Owner Representative,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-021,PRJ-021,Desert View Processing Plant,Workflow risk score 8 (Red),8,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-022,RFI-00816,,Open field-impact RFI overdue by 1255 days,1255,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-022,RFI-00828,,Open field-impact RFI overdue by 1261 days,1261,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-022,RFI-00840,,Open field-impact RFI overdue by 1258 days,1258,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-022,RFI-00856,,Open field-impact RFI overdue by 1245 days,1245,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-022,RFI-00856,,High RFI overdue by 1245 days,1245,7,Engineer,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-023,RFI-00885,,Open field-impact RFI overdue by 1132 days,1132,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-023,RFI-00894,,Open field-impact RFI overdue by 559 days,559,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-023,RFI-00885,,High RFI overdue by 1132 days,1132,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-023,RFI-00894,,High RFI overdue by 559 days,559,7,Architect,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-023,PRJ-023,Vista Retail Pavilion,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-025,RFI-00932,,Open field-impact RFI overdue by 773 days,773,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-025,RFI-00941,,Open field-impact RFI overdue by 815 days,815,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-025,RFI-00948,,Open field-impact RFI overdue by 706 days,706,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High Pending Exposure,Critical,PRJ-025,PRJ-025,Canyon Transit-Oriented Development,Pending exposure is 2.95% of project budget,2.95,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-025,RFI-00943,,High RFI overdue by 838 days,838,7,Architect,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-025,PRJ-025,Canyon Transit-Oriented Development,Workflow risk score 9 (Red),9,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High/Critical Overdue RFI,Critical,PRJ-026,RFI-00977,,High RFI overdue by 680 days,680,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-026,PRJ-026,Blue Mesa Processing Plant,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-027,RFI-01004,,Open field-impact RFI overdue by 1343 days,1343,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-027,RFI-01030,,Open field-impact RFI overdue by 1271 days,1271,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High Pending Exposure,Critical,PRJ-027,PRJ-027,Red Rock Town Center 2,Pending exposure is 2.24% of project budget,2.242,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-027,RFI-01030,,High RFI overdue by 1271 days,1271,7,Engineer,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-029,RFI-01075,,Open field-impact RFI overdue by 1246 days,1246,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-029,RFI-01119,,Open field-impact RFI overdue by 1300 days,1300,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-029,RFI-01126,,Open field-impact RFI overdue by 862 days,862,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High Pending Exposure,Critical,PRJ-029,PRJ-029,Frontier Urban Village 2,Pending exposure is 2.75% of project budget,2.752,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-029,RFI-01099,,Critical RFI overdue by 1215 days,1215,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-029,RFI-01126,,High RFI overdue by 862 days,862,7,Owner Representative,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-029,RFI-01130,,High RFI overdue by 1370 days,1370,7,Architect,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-029,PRJ-029,Frontier Urban Village 2,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High/Critical Overdue RFI,Critical,PRJ-030,RFI-01138,,High RFI overdue by 769 days,769,7,Engineer,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-031,RFI-01187,,Open field-impact RFI overdue by 598 days,598,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-031,RFI-01176,,Critical RFI overdue by 616 days,616,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-031,RFI-01187,,High RFI overdue by 598 days,598,7,Engineer,Obtain the response or escalate the required decision immediately.
+High Pending Exposure,Critical,PRJ-032,PRJ-032,Blue Mesa Research Center,Pending exposure is 1.51% of project budget,1.507,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+Field-Impact Overdue RFI,Critical,PRJ-035,RFI-01321,,Open field-impact RFI overdue by 950 days,950,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Red Project,Critical,PRJ-036,PRJ-036,Summit Medical Pavilion,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High/Critical Overdue RFI,Critical,PRJ-037,RFI-01408,,High RFI overdue by 819 days,819,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-039,RFI-01484,,High RFI overdue by 348 days,348,7,Architect,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-039,PRJ-039,Silver Creek Urban Village 2,Workflow risk score 8 (Red),8,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-040,RFI-01492,,Open field-impact RFI overdue by 191 days,191,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-040,RFI-01500,,Open field-impact RFI overdue by 62 days,62,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-040,RFI-01535,,Open field-impact RFI overdue by 220 days,220,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High Pending Exposure,Critical,PRJ-041,PRJ-041,Riverbend Transit-Oriented Development,Pending exposure is 1.73% of project budget,1.73,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-042,RFI-01586,,Critical RFI overdue by 884 days,884,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-042,PRJ-042,Blue Mesa Retail Pavilion,Workflow risk score 7 (Red),7,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-043,RFI-01606,,Open field-impact RFI overdue by 250 days,250,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-043,RFI-01622,,Open field-impact RFI overdue by 279 days,279,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-043,RFI-01611,,High RFI overdue by 788 days,788,7,Architect,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-043,RFI-01622,,High RFI overdue by 279 days,279,7,Owner Representative,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-043,PRJ-043,Copper Ridge Apartments,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High Pending Exposure,Critical,PRJ-045,PRJ-045,Pioneer Community College 2,Pending exposure is 3.17% of project budget,3.167,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High Pending Exposure,Critical,PRJ-046,PRJ-046,Riverbend Apartments,Pending exposure is 2.13% of project budget,2.135,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-047,RFI-01742,,High RFI overdue by 874 days,874,7,Owner Representative,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-048,RFI-01767,,Open field-impact RFI overdue by 1118 days,1118,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-049,RFI-01843,,Open field-impact RFI overdue by 120 days,120,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-050,RFI-01863,,Open field-impact RFI overdue by 424 days,424,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-050,RFI-01863,,High RFI overdue by 424 days,424,7,Engineer,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-051,RFI-01883,,Open field-impact RFI overdue by 231 days,231,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-051,RFI-01884,,Open field-impact RFI overdue by 909 days,909,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-051,RFI-01902,,Open field-impact RFI overdue by 1073 days,1073,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-051,RFI-01910,,Open field-impact RFI overdue by 436 days,436,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-051,RFI-01938,,Open field-impact RFI overdue by 1246 days,1246,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-051,RFI-01884,,High RFI overdue by 909 days,909,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-051,RFI-01895,,High RFI overdue by 844 days,844,7,Design Manager,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-051,RFI-01920,,High RFI overdue by 550 days,550,7,Construction Manager,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-051,RFI-01938,,High RFI overdue by 1246 days,1246,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-051,PRJ-051,Evergreen Apartments,Workflow risk score 9 (Red),9,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-054,RFI-02023,,Open field-impact RFI overdue by 1124 days,1124,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-057,RFI-02125,,Open field-impact RFI overdue by 836 days,836,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-057,RFI-02133,,Open field-impact RFI overdue by 1124 days,1124,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-057,RFI-02133,,High RFI overdue by 1124 days,1124,7,Construction Manager,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-057,RFI-02138,,High RFI overdue by 668 days,668,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-057,PRJ-057,Summit Community College,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-059,RFI-02183,,Open field-impact RFI overdue by 365 days,365,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-059,RFI-02186,,Open field-impact RFI overdue by 421 days,421,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-059,RFI-02183,,High RFI overdue by 365 days,365,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-059,RFI-02186,,High RFI overdue by 421 days,421,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-059,RFI-02197,,High RFI overdue by 87 days,87,7,Design Manager,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-059,PRJ-059,Vista Transit-Oriented Development,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High/Critical Overdue RFI,Critical,PRJ-064,RFI-02342,,High RFI overdue by 531 days,531,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-065,RFI-02379,,High RFI overdue by 652 days,652,7,Architect,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-065,RFI-02385,,High RFI overdue by 844 days,844,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-065,RFI-02395,,High RFI overdue by 754 days,754,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-065,PRJ-065,Riverbend Marketplace,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-066,RFI-02419,,Open field-impact RFI overdue by 543 days,543,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-066,RFI-02412,,High RFI overdue by 1029 days,1029,7,Design Manager,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-067,RFI-02443,,Open field-impact RFI overdue by 963 days,963,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-067,RFI-02462,,Critical RFI overdue by 1297 days,1297,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-067,PRJ-067,Riverbend Housing Community,Workflow risk score 7 (Red),7,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-068,RFI-02474,,Open field-impact RFI overdue by 1163 days,1163,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-068,RFI-02487,,High RFI overdue by 968 days,968,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-068,RFI-02501,,High RFI overdue by 896 days,896,7,Architect,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-068,PRJ-068,Copper Ridge Neighborhood,Workflow risk score 7 (Red),7,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High Pending Exposure,Critical,PRJ-070,PRJ-070,Liberty Manufacturing Facility,Pending exposure is 1.69% of project budget,1.692,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-071,RFI-02595,,High RFI overdue by 1290 days,1290,7,Design Manager,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-072,RFI-02628,,Open field-impact RFI overdue by 912 days,912,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-072,RFI-02646,,Open field-impact RFI overdue by 714 days,714,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High Pending Exposure,Critical,PRJ-072,PRJ-072,Evergreen Mixed-Use District,Pending exposure is 1.66% of project budget,1.662,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+Red Project,Critical,PRJ-072,PRJ-072,Evergreen Mixed-Use District,Workflow risk score 7 (Red),7,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High/Critical Overdue RFI,Critical,PRJ-074,RFI-02726,,High RFI overdue by 1052 days,1052,7,Architect,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-075,RFI-02731,,Open field-impact RFI overdue by 16 days,16,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-075,RFI-02747,,Open field-impact RFI overdue by 32 days,32,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-075,RFI-02779,,Open field-impact RFI overdue by 115 days,115,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-075,RFI-02732,,High RFI overdue by 509 days,509,7,Construction Manager,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-075,RFI-02779,,Critical RFI overdue by 115 days,115,7,Owner Representative,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-075,PRJ-075,Summit Urban Village,Workflow risk score 9 (Red),9,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-076,RFI-02784,,Open field-impact RFI overdue by 1368 days,1368,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High Pending Exposure,Critical,PRJ-076,PRJ-076,Vista Marketplace,Pending exposure is 2.62% of project budget,2.622,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-076,RFI-02817,,Critical RFI overdue by 1367 days,1367,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-077,RFI-02847,,High RFI overdue by 1418 days,1418,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-077,RFI-02858,,High RFI overdue by 918 days,918,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-078,RFI-02894,,High RFI overdue by 931 days,931,7,Owner Representative,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-078,RFI-02902,,Critical RFI overdue by 873 days,873,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-079,RFI-02936,,Critical RFI overdue by 1427 days,1427,7,Construction Manager,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-079,RFI-02966,,High RFI overdue by 974 days,974,7,Engineer,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-080,RFI-02980,,High RFI overdue by 1408 days,1408,7,Engineer,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-080,PRJ-080,Granite Water Facility,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+Field-Impact Overdue RFI,Critical,PRJ-081,RFI-03014,,Open field-impact RFI overdue by 16 days,16,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-081,RFI-03034,,Open field-impact RFI overdue by 566 days,566,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High Pending Exposure,Critical,PRJ-081,PRJ-081,Desert View Transit-Oriented Development,Pending exposure is 2.41% of project budget,2.409,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-081,RFI-03015,,High RFI overdue by 769 days,769,7,Architect,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-081,PRJ-081,Desert View Transit-Oriented Development,Workflow risk score 7 (Red),7,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High/Critical Overdue RFI,Critical,PRJ-082,RFI-03040,,High RFI overdue by 799 days,799,7,Design Manager,Obtain the response or escalate the required decision immediately.
+High/Critical Overdue RFI,Critical,PRJ-082,RFI-03048,,High RFI overdue by 791 days,791,7,Construction Manager,Obtain the response or escalate the required decision immediately.
+Red Project,Critical,PRJ-082,PRJ-082,Sunset Office Campus,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High/Critical Overdue RFI,Critical,PRJ-083,RFI-03102,,High RFI overdue by 1114 days,1114,7,Engineer,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-085,RFI-03154,,Open field-impact RFI overdue by 282 days,282,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Field-Impact Overdue RFI,Critical,PRJ-086,RFI-03194,,Open field-impact RFI overdue by 977 days,977,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+High/Critical Overdue RFI,Critical,PRJ-086,RFI-03194,,High RFI overdue by 977 days,977,7,Owner Representative,Obtain the response or escalate the required decision immediately.
+High Pending Exposure,Critical,PRJ-087,PRJ-087,Vista Marketplace 2,Pending exposure is 1.75% of project budget,1.75,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+Red Project,Critical,PRJ-087,PRJ-087,Vista Marketplace 2,Workflow risk score 6 (Red),6,6,Project Manager,Open or update the project recovery plan and assign owners to every Red trigger.
+High Pending Exposure,Critical,PRJ-088,PRJ-088,Canyon Transit Center,Pending exposure is 2.22% of project budget,2.218,1.5,Change Manager,Review pending items and obtain an approved exposure-reduction plan.
+High/Critical Overdue RFI,Critical,PRJ-089,RFI-03272,,High RFI overdue by 453 days,453,7,Architect,Obtain the response or escalate the required decision immediately.
+Field-Impact Overdue RFI,Critical,PRJ-090,RFI-03281,,Open field-impact RFI overdue by 394 days,394,0,Design Manager,Protect the field sequence and assign a decision owner and due date.
+Approved Not Incorporated,High,PRJ-001,CO-00002,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-001,CO-00006,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-001,CO-00008,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-001,CO-00011,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-001,CO-00001,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-001,CO-00007,,Forecast incorporation lag is 15 days,15,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-001,CO-00009,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-001,CO-00010,,Pending change age is 459 days,459,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-002,CO-00022,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-002,CO-00025,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-002,CO-00030,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-002,CO-00017,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-002,CO-00018,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-002,CO-00024,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-002,CO-00026,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-002,CO-00027,,Pending change age is 1239 days,1239,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-003,CO-00032,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-003,CO-00038,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-003,CO-00039,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-003,CO-00040,,Forecast incorporation lag is 15 days,15,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-003,CO-00041,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-004,CO-00049,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-004,CO-00050,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-004,CO-00052,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-004,CO-00053,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-004,CO-00042,,Pending change age is 40 days,40,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-004,CO-00051,,Pending change age is 132 days,132,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-005,CO-00058,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-005,CO-00055,,Pending change age is 552 days,552,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-005,CO-00056,,Pending change age is 797 days,797,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-005,CO-00059,,Pending change age is 71 days,71,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-005,CO-00061,,Pending change age is 322 days,322,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-006,CO-00075,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-006,CO-00066,,Forecast incorporation lag is 40 days,40,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-006,CO-00067,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-006,CO-00071,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-006,CO-00072,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-006,CO-00063,,Pending change age is 1088 days,1088,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-006,CO-00065,,Pending change age is 552 days,552,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-006,CO-00068,,Pending change age is 833 days,833,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-006,CO-00073,,Pending change age is 585 days,585,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-007,CO-00076,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-007,CO-00077,,Forecast incorporation lag is 18 days,18,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-007,CO-00078,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-007,CO-00079,,Forecast incorporation lag is 20 days,20,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-007,CO-00081,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Approved Not Incorporated,High,PRJ-008,CO-00093,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-008,CO-00086,,Forecast incorporation lag is 14 days,14,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00087,,Forecast incorporation lag is 18 days,18,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00088,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00090,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00092,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00094,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00095,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00098,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00100,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00101,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00103,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-008,CO-00104,,Forecast incorporation lag is 19 days,19,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-008,CO-00085,,Pending change age is 1257 days,1257,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-008,CO-00099,,Pending change age is 1176 days,1176,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-009,CO-00106,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-009,CO-00108,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Approved Not Incorporated,High,PRJ-010,CO-00115,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-010,CO-00114,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-010,CO-00118,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-010,CO-00119,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-010,CO-00121,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-011,CO-00124,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-011,CO-00126,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-011,CO-00135,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-011,CO-00137,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-011,CO-00131,,Pending change age is 1072 days,1072,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-011,CO-00134,,Pending change age is 935 days,935,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-011,CO-00136,,Pending change age is 821 days,821,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-012,CO-00142,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-012,CO-00138,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-012,CO-00140,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-012,CO-00141,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-012,CO-00143,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-012,CO-00151,,Forecast incorporation lag is 14 days,14,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-012,CO-00144,,Pending change age is 289 days,289,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-012,CO-00150,,Pending change age is 320 days,320,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-013,CO-00152,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-013,CO-00163,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-013,CO-00158,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-013,CO-00159,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-013,CO-00161,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-013,CO-00155,,Pending change age is 998 days,998,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-013,CO-00156,,Pending change age is 1214 days,1214,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-013,CO-00162,,Pending change age is 1315 days,1315,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-014,CO-00169,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-014,CO-00171,,Forecast incorporation lag is 14 days,14,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-014,CO-00168,,Pending change age is 550 days,550,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-015,CO-00175,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-015,CO-00178,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-015,CO-00176,,Pending change age is 168 days,168,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-016,CO-00195,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-016,CO-00182,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-016,CO-00190,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-016,CO-00196,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-016,CO-00180,,Pending change age is 1003 days,1003,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-016,CO-00181,,Pending change age is 617 days,617,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-016,CO-00183,,Pending change age is 752 days,752,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-016,CO-00188,,Pending change age is 634 days,634,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-016,CO-00197,,Pending change age is 580 days,580,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-017,CO-00211,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-017,CO-00199,,Forecast incorporation lag is 15 days,15,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-017,CO-00200,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-017,CO-00213,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-017,CO-00216,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-017,CO-00201,,Pending change age is 1277 days,1277,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-017,CO-00204,,Pending change age is 920 days,920,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-017,CO-00205,,Pending change age is 1054 days,1054,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-017,CO-00209,,Pending change age is 1331 days,1331,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-018,CO-00218,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-018,CO-00219,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-018,CO-00221,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-018,CO-00223,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-018,CO-00225,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-018,CO-00220,,Pending change age is 1438 days,1438,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-019,CO-00237,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-019,CO-00227,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-019,CO-00230,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-019,CO-00235,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-019,CO-00239,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-019,CO-00240,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-019,CO-00241,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-019,CO-00243,,Forecast incorporation lag is 18 days,18,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-019,CO-00244,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-019,CO-00228,,Pending change age is 1146 days,1146,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-019,CO-00229,,Pending change age is 835 days,835,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-019,CO-00231,,Pending change age is 1048 days,1048,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-019,CO-00232,,Pending change age is 727 days,727,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-019,CO-00236,,Pending change age is 855 days,855,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-019,CO-00246,,Pending change age is 688 days,688,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-019,CO-00247,,Pending change age is 776 days,776,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-020,CO-00249,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-020,CO-00252,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-020,CO-00254,,Pending change age is 761 days,761,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-020,CO-00260,,Pending change age is 389 days,389,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-020,CO-00261,,Pending change age is 437 days,437,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-021,CO-00270,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-021,CO-00264,,Forecast incorporation lag is 20 days,20,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-021,CO-00265,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-021,CO-00266,,Forecast incorporation lag is 17 days,17,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-021,CO-00267,,Forecast incorporation lag is 14 days,14,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-021,CO-00271,,Forecast incorporation lag is 21 days,21,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-021,CO-00272,,Forecast incorporation lag is 15 days,15,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-021,CO-00273,,Pending change age is 1305 days,1305,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-021,CO-00274,,Pending change age is 848 days,848,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-022,CO-00285,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-022,CO-00281,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-022,CO-00282,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-022,CO-00284,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-022,CO-00280,,Pending change age is 1280 days,1280,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-022,CO-00286,,Pending change age is 1445 days,1445,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-023,CO-00288,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-023,CO-00294,,Forecast incorporation lag is 24 days,24,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-023,CO-00295,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-023,CO-00297,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-023,CO-00298,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-023,CO-00299,,Forecast incorporation lag is 18 days,18,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-024,CO-00308,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-024,CO-00309,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-024,CO-00312,,Forecast incorporation lag is 18 days,18,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-024,CO-00313,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-024,CO-00314,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-024,CO-00317,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-024,CO-00318,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-024,CO-00303,,Pending change age is 619 days,619,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-025,CO-00322,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-025,CO-00325,,Forecast incorporation lag is 23 days,23,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-025,CO-00333,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-025,CO-00320,,Pending change age is 572 days,572,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-025,CO-00326,,Pending change age is 565 days,565,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-025,CO-00329,,Pending change age is 772 days,772,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-025,CO-00330,,Pending change age is 565 days,565,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-025,CO-00331,,Pending change age is 846 days,846,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-026,CO-00340,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-026,CO-00338,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-026,CO-00339,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-026,CO-00335,,Pending change age is 119 days,119,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-026,CO-00336,,Pending change age is 54 days,54,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-026,CO-00341,,Pending change age is 236 days,236,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-027,CO-00344,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-027,CO-00345,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-027,CO-00349,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-027,CO-00342,,Pending change age is 1399 days,1399,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-027,CO-00343,,Pending change age is 1302 days,1302,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-027,CO-00346,,Pending change age is 1369 days,1369,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-027,CO-00350,,Pending change age is 1438 days,1438,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-027,CO-00351,,Pending change age is 1402 days,1402,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-027,CO-00355,,Pending change age is 1375 days,1375,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-028,CO-00368,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-028,CO-00370,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-028,CO-00361,,Pending change age is 1270 days,1270,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-028,CO-00362,,Pending change age is 1052 days,1052,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-028,CO-00364,,Pending change age is 1105 days,1105,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-029,CO-00373,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-029,CO-00378,,Pending change age is 1065 days,1065,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-029,CO-00385,,Pending change age is 1309 days,1309,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-030,CO-00387,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-030,CO-00391,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Old Pending Change,High,PRJ-030,CO-00390,,Pending change age is 1451 days,1451,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-031,CO-00401,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-031,CO-00394,,Pending change age is 553 days,553,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-031,CO-00395,,Pending change age is 767 days,767,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-032,CO-00413,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-032,CO-00407,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-032,CO-00414,,Forecast incorporation lag is 31 days,31,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-032,CO-00406,,Pending change age is 928 days,928,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-032,CO-00410,,Pending change age is 713 days,713,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-032,CO-00411,,Pending change age is 676 days,676,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-033,CO-00419,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-033,CO-00421,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-033,CO-00423,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-033,CO-00426,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-033,CO-00428,,Forecast incorporation lag is 21 days,21,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-033,CO-00417,,Pending change age is 866 days,866,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-033,CO-00422,,Pending change age is 836 days,836,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-033,CO-00425,,Pending change age is 1089 days,1089,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-034,CO-00431,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-034,CO-00435,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-034,CO-00436,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-034,CO-00439,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-034,CO-00441,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-035,CO-00445,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-035,CO-00442,,Pending change age is 525 days,525,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-035,CO-00448,,Pending change age is 489 days,489,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-035,CO-00452,,Pending change age is 912 days,912,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-036,CO-00458,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-036,CO-00455,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-036,CO-00457,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-036,CO-00460,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-036,CO-00463,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-036,CO-00459,,Pending change age is 301 days,301,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-036,CO-00462,,Pending change age is 85 days,85,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-037,CO-00476,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-037,CO-00471,,Pending change age is 374 days,374,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-037,CO-00472,,Pending change age is 800 days,800,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-037,CO-00473,,Pending change age is 464 days,464,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-038,CO-00484,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-038,CO-00478,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-038,CO-00481,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-038,CO-00482,,Forecast incorporation lag is 14 days,14,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-038,CO-00477,,Pending change age is 598 days,598,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-038,CO-00486,,Pending change age is 274 days,274,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-039,CO-00491,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-039,CO-00488,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-039,CO-00490,,Forecast incorporation lag is 19 days,19,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-039,CO-00492,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-039,CO-00494,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-039,CO-00496,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-039,CO-00495,,Pending change age is 537 days,537,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-040,CO-00499,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-040,CO-00500,,Forecast incorporation lag is 15 days,15,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-040,CO-00502,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-040,CO-00504,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-040,CO-00503,,Pending change age is 531 days,531,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-040,CO-00507,,Pending change age is 685 days,685,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-040,CO-00508,,Pending change age is 446 days,446,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-040,CO-00509,,Pending change age is 42 days,42,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-041,CO-00511,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-041,CO-00515,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-041,CO-00510,,Pending change age is 1363 days,1363,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-041,CO-00513,,Pending change age is 1109 days,1109,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-041,CO-00514,,Pending change age is 1264 days,1264,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-041,CO-00516,,Pending change age is 1317 days,1317,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-041,CO-00519,,Pending change age is 1230 days,1230,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-042,CO-00532,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-042,CO-00525,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-042,CO-00526,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-042,CO-00529,,Forecast incorporation lag is 20 days,20,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-042,CO-00531,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-042,CO-00524,,Pending change age is 1128 days,1128,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-043,CO-00537,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-043,CO-00534,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-043,CO-00538,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-043,CO-00540,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-043,CO-00541,,Forecast incorporation lag is 22 days,22,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-043,CO-00548,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-043,CO-00549,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-043,CO-00550,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-043,CO-00535,,Pending change age is 471 days,471,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-043,CO-00542,,Pending change age is 739 days,739,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-043,CO-00543,,Pending change age is 915 days,915,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-043,CO-00544,,Pending change age is 367 days,367,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-043,CO-00552,,Pending change age is 858 days,858,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-044,CO-00553,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-044,CO-00560,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-044,CO-00554,,Pending change age is 1119 days,1119,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-044,CO-00558,,Pending change age is 464 days,464,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-045,CO-00562,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-045,CO-00565,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-045,CO-00566,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-045,CO-00567,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-045,CO-00568,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-045,CO-00569,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-045,CO-00570,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-045,CO-00571,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-045,CO-00563,,Pending change age is 317 days,317,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-045,CO-00564,,Pending change age is 289 days,289,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-046,CO-00573,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-046,CO-00580,,Pending change age is 828 days,828,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-046,CO-00582,,Pending change age is 943 days,943,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-046,CO-00583,,Pending change age is 660 days,660,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-047,CO-00588,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-047,CO-00589,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-047,CO-00590,,Forecast incorporation lag is 14 days,14,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-047,CO-00592,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-047,CO-00584,,Pending change age is 664 days,664,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-047,CO-00585,,Pending change age is 837 days,837,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-047,CO-00594,,Pending change age is 602 days,602,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-047,CO-00595,,Pending change age is 638 days,638,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-048,CO-00600,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-048,CO-00606,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-048,CO-00610,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-048,CO-00613,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-048,CO-00615,,Forecast incorporation lag is 18 days,18,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-048,CO-00598,,Pending change age is 459 days,459,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-048,CO-00611,,Pending change age is 454 days,454,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-048,CO-00614,,Pending change age is 859 days,859,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-049,CO-00623,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-049,CO-00625,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-049,CO-00629,,Forecast incorporation lag is 17 days,17,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-049,CO-00627,,Pending change age is 532 days,532,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-050,CO-00632,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-050,CO-00635,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-050,CO-00637,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-050,CO-00638,,Forecast incorporation lag is 15 days,15,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-051,CO-00643,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-051,CO-00649,,Forecast incorporation lag is 21 days,21,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-051,CO-00650,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-051,CO-00652,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-051,CO-00659,,Forecast incorporation lag is 23 days,23,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-051,CO-00660,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-051,CO-00663,,Forecast incorporation lag is 22 days,22,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-051,CO-00664,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-051,CO-00642,,Pending change age is 1056 days,1056,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-051,CO-00656,,Pending change age is 1246 days,1246,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-051,CO-00661,,Pending change age is 888 days,888,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-051,CO-00662,,Pending change age is 861 days,861,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-052,CO-00665,,Forecast incorporation lag is 20 days,20,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-052,CO-00672,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-052,CO-00668,,Pending change age is 197 days,197,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-052,CO-00669,,Pending change age is 616 days,616,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-053,CO-00682,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-053,CO-00683,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-053,CO-00687,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-053,CO-00688,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-053,CO-00676,,Pending change age is 1216 days,1216,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-053,CO-00681,,Pending change age is 1174 days,1174,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-054,CO-00693,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-054,CO-00698,,Forecast incorporation lag is 14 days,14,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-054,CO-00691,,Pending change age is 794 days,794,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-054,CO-00695,,Pending change age is 1084 days,1084,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-055,CO-00701,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-055,CO-00700,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-055,CO-00706,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-055,CO-00699,,Pending change age is 1386 days,1386,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-055,CO-00702,,Pending change age is 1044 days,1044,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-055,CO-00705,,Pending change age is 1036 days,1036,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-056,CO-00709,,Forecast incorporation lag is 18 days,18,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-056,CO-00720,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-056,CO-00722,,Forecast incorporation lag is 23 days,23,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-056,CO-00712,,Pending change age is 1301 days,1301,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-056,CO-00714,,Pending change age is 778 days,778,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-057,CO-00724,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-057,CO-00733,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-057,CO-00728,,Pending change age is 927 days,927,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-057,CO-00731,,Pending change age is 1007 days,1007,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-058,CO-00743,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Old Pending Change,High,PRJ-058,CO-00734,,Pending change age is 984 days,984,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-058,CO-00735,,Pending change age is 872 days,872,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-058,CO-00736,,Pending change age is 820 days,820,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-058,CO-00737,,Pending change age is 778 days,778,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-058,CO-00742,,Pending change age is 710 days,710,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-059,CO-00747,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-059,CO-00750,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-059,CO-00751,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-059,CO-00745,,Pending change age is 44 days,44,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-059,CO-00746,,Pending change age is 106 days,106,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-060,CO-00752,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-060,CO-00757,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-060,CO-00758,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-060,CO-00755,,Pending change age is 1076 days,1076,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-060,CO-00756,,Pending change age is 558 days,558,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-061,CO-00760,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-061,CO-00761,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-061,CO-00763,,Pending change age is 892 days,892,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-061,CO-00767,,Pending change age is 679 days,679,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-062,CO-00778,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-062,CO-00769,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-062,CO-00772,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-062,CO-00775,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-062,CO-00780,,Forecast incorporation lag is 15 days,15,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-062,CO-00768,,Pending change age is 925 days,925,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-062,CO-00779,,Pending change age is 857 days,857,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-062,CO-00781,,Pending change age is 775 days,775,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-063,CO-00788,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Old Pending Change,High,PRJ-063,CO-00786,,Pending change age is 892 days,892,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-064,CO-00792,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-064,CO-00797,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-064,CO-00793,,Pending change age is 766 days,766,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-064,CO-00796,,Pending change age is 656 days,656,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-064,CO-00800,,Pending change age is 789 days,789,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-064,CO-00802,,Pending change age is 525 days,525,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-064,CO-00803,,Pending change age is 688 days,688,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-065,CO-00804,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-065,CO-00807,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Old Pending Change,High,PRJ-065,CO-00809,,Pending change age is 462 days,462,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-065,CO-00812,,Pending change age is 678 days,678,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-066,CO-00813,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-066,CO-00814,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-066,CO-00815,,Forecast incorporation lag is 17 days,17,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-066,CO-00817,,Forecast incorporation lag is 16 days,16,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-066,CO-00819,,Pending change age is 994 days,994,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-067,CO-00826,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-067,CO-00824,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-067,CO-00827,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-067,CO-00828,,Forecast incorporation lag is 14 days,14,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-067,CO-00834,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-067,CO-00822,,Pending change age is 1172 days,1172,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-067,CO-00823,,Pending change age is 1206 days,1206,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-067,CO-00829,,Pending change age is 1103 days,1103,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-068,CO-00837,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-068,CO-00838,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-068,CO-00840,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-068,CO-00839,,Pending change age is 1025 days,1025,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-068,CO-00842,,Pending change age is 1021 days,1021,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-069,CO-00844,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-069,CO-00845,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-069,CO-00848,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-069,CO-00849,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-069,CO-00843,,Pending change age is 1214 days,1214,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-069,CO-00850,,Pending change age is 1448 days,1448,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-070,CO-00854,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-070,CO-00857,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-070,CO-00859,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-070,CO-00860,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-070,CO-00856,,Pending change age is 1086 days,1086,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-070,CO-00862,,Pending change age is 707 days,707,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-070,CO-00863,,Pending change age is 1196 days,1196,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-070,CO-00864,,Pending change age is 251 days,251,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-071,CO-00866,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-071,CO-00872,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-071,CO-00873,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-071,CO-00877,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-071,CO-00871,,Pending change age is 987 days,987,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-071,CO-00874,,Pending change age is 1326 days,1326,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-071,CO-00876,,Pending change age is 909 days,909,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-072,CO-00880,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-072,CO-00886,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-072,CO-00887,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-072,CO-00889,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-072,CO-00891,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-072,CO-00892,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-072,CO-00878,,Pending change age is 1000 days,1000,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-072,CO-00882,,Pending change age is 340 days,340,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-072,CO-00883,,Pending change age is 718 days,718,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-072,CO-00884,,Pending change age is 799 days,799,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-072,CO-00888,,Pending change age is 645 days,645,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-073,CO-00897,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-073,CO-00894,,Pending change age is 1132 days,1132,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-073,CO-00903,,Pending change age is 989 days,989,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-074,CO-00907,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-074,CO-00912,,Pending change age is 1250 days,1250,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-074,CO-00913,,Pending change age is 1123 days,1123,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-075,CO-00936,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-075,CO-00938,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-075,CO-00914,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-075,CO-00915,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-075,CO-00916,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-075,CO-00918,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-075,CO-00921,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-075,CO-00925,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-075,CO-00930,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-075,CO-00932,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-075,CO-00935,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-075,CO-00937,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-075,CO-00923,,Pending change age is 392 days,392,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-075,CO-00924,,Pending change age is 174 days,174,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-076,CO-00948,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-076,CO-00949,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-076,CO-00944,,Pending change age is 1229 days,1229,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-076,CO-00945,,Pending change age is 1358 days,1358,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-076,CO-00947,,Pending change age is 1318 days,1318,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-076,CO-00951,,Pending change age is 1092 days,1092,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-077,CO-00957,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-077,CO-00958,,Pending change age is 1392 days,1392,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-078,CO-00963,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-078,CO-00964,,Pending change age is 713 days,713,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-078,CO-00966,,Pending change age is 841 days,841,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-078,CO-00970,,Pending change age is 1342 days,1342,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-078,CO-00971,,Pending change age is 815 days,815,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-079,CO-00984,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-079,CO-00975,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-079,CO-00977,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-079,CO-00978,,Forecast incorporation lag is 24 days,24,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-079,CO-00979,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-079,CO-00980,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-079,CO-00981,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-079,CO-00982,,Pending change age is 785 days,785,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-079,CO-00983,,Pending change age is 994 days,994,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-080,CO-00995,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-080,CO-00986,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-080,CO-00991,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-080,CO-00994,,Forecast incorporation lag is 27 days,27,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-080,CO-00997,,Forecast incorporation lag is 35 days,35,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-080,CO-00987,,Pending change age is 1345 days,1345,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-080,CO-00992,,Pending change age is 1187 days,1187,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-081,CO-01004,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-081,CO-00999,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-081,CO-01008,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-081,CO-01009,,Forecast incorporation lag is 27 days,27,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-081,CO-01011,,Forecast incorporation lag is 18 days,18,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-081,CO-01001,,Pending change age is 432 days,432,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-081,CO-01002,,Pending change age is 464 days,464,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-081,CO-01007,,Pending change age is 376 days,376,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-082,CO-01022,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-082,CO-01015,,Forecast incorporation lag is 27 days,27,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-082,CO-01019,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-082,CO-01017,,Pending change age is 881 days,881,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-082,CO-01025,,Pending change age is 337 days,337,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-083,CO-01033,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-083,CO-01031,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-083,CO-01034,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-084,CO-01036,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-084,CO-01035,,Pending change age is 245 days,245,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-084,CO-01043,,Pending change age is 299 days,299,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-085,CO-01051,,Forecast incorporation lag is 10 days,10,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-085,CO-01044,,Pending change age is 548 days,548,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-085,CO-01047,,Pending change age is 453 days,453,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-085,CO-01054,,Pending change age is 538 days,538,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-086,CO-01057,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-086,CO-01063,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-086,CO-01060,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-086,CO-01058,,Pending change age is 1301 days,1301,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-086,CO-01062,,Pending change age is 613 days,613,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-086,CO-01064,,Pending change age is 511 days,511,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Forecast Incorporation Lag,High,PRJ-087,CO-01067,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-087,CO-01068,,Forecast incorporation lag is 12 days,12,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-087,CO-01070,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-087,CO-01075,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-087,CO-01076,,Forecast incorporation lag is 13 days,13,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-087,CO-01066,,Pending change age is 219 days,219,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-087,CO-01071,,Pending change age is 682 days,682,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-087,CO-01072,,Pending change age is 499 days,499,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-088,CO-01078,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Approved Not Incorporated,High,PRJ-088,CO-01092,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-088,CO-01086,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-088,CO-01091,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-088,CO-01079,,Pending change age is 291 days,291,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-088,CO-01081,,Pending change age is 671 days,671,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-088,CO-01082,,Pending change age is 233 days,233,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-088,CO-01088,,Pending change age is 457 days,457,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-088,CO-01093,,Pending change age is 377 days,377,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Approved Not Incorporated,High,PRJ-089,CO-01097,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-089,CO-01094,,Forecast incorporation lag is 14 days,14,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-089,CO-01095,,Forecast incorporation lag is 16 days,16,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-089,CO-01096,,Forecast incorporation lag is 7 days,7,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-089,CO-01103,,Forecast incorporation lag is 22 days,22,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-089,CO-01104,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Approved Not Incorporated,High,PRJ-090,CO-01113,,Approved change has no observed forecast incorporation date,,5 business days,Project Controls Lead,Reconcile the change register and update the forecast.
+Forecast Incorporation Lag,High,PRJ-090,CO-01105,,Forecast incorporation lag is 8 days,8,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-090,CO-01106,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-090,CO-01108,,Forecast incorporation lag is 31 days,31,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-090,CO-01109,,Forecast incorporation lag is 11 days,11,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-090,CO-01115,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-090,CO-01118,,Forecast incorporation lag is 9 days,9,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Forecast Incorporation Lag,High,PRJ-090,CO-01120,,Forecast incorporation lag is 6 days,6,5,Project Controls Lead,Confirm forecast update and document the reconciliation.
+Old Pending Change,High,PRJ-090,CO-01107,,Pending change age is 338 days,338,35,Change Manager,"Decide, negotiate, revise, or document final disposition."
+Old Pending Change,High,PRJ-090,CO-01111,,Pending change age is 454 days,454,35,Change Manager,"Decide, negotiate, revise, or document final disposition."

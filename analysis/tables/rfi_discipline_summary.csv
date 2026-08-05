@@ -1,0 +1,11 @@
+﻿Discipline,RFI_Count,Responded_Count,Avg_Response_Days,On_Time_Rate_Pct,Overdue_Open_Count,RFI_to_Change_Rate_Pct,Cost_Impacted_Count,Schedule_Impacted_Count,Actual_Cost_Impact,Actual_Schedule_Days
+Specialty Systems,231,211,13.64,41.2,20,14.7,46,35,1872400.0,188
+Mechanical,480,439,13.43,38.7,40,19.2,117,90,4939500.0,365
+Electrical,518,468,12.98,42.5,50,17.8,122,82,5146900.0,436
+Structural,413,370,12.95,41.1,43,17.4,95,83,2972300.0,302
+Fire Protection,181,173,12.41,43.4,8,16.6,44,32,2022800.0,152
+Civil,285,263,12.38,44.9,21,17.5,70,48,2363600.0,219
+Controls,157,147,12.18,49.0,10,19.1,38,22,1821600.0,158
+Plumbing,283,255,11.18,48.6,28,13.4,59,44,2997100.0,229
+Architectural,495,441,10.89,51.0,53,16.8,99,86,3309000.0,316
+General,275,252,9.46,62.3,22,17.5,56,40,2163300.0,207

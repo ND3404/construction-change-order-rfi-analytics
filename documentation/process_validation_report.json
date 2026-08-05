@@ -1,0 +1,27 @@
+{
+  "phase": "Process",
+  "status": "Passed",
+  "raw_rows": {
+    "projects": 92,
+    "rfi_log": 3328,
+    "change_orders": 1125,
+    "workflow_events": 11308,
+    "rfi_change_links": 683
+  },
+  "clean_rows": {
+    "projects": 90,
+    "rfi_log": 3318,
+    "change_orders": 1119,
+    "workflow_events": 11286,
+    "rfi_change_links": 677
+  },
+  "duplicate_removals": 28,
+  "repaired_or_standardized_actions": 180,
+  "quarantined_rows": 18,
+  "cleaning_log_actions": 226,
+  "quality_checks": 22,
+  "passed_quality_checks": 22,
+  "foreign_key_errors": [],
+  "sqlite_quick_check": "ok",
+  "row_reconciliation_passed": true
+}

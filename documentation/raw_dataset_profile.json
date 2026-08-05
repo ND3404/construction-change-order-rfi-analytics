@@ -1,0 +1,28 @@
+{
+  "random_seed": 20260803,
+  "data_cutoff": "2025-12-31",
+  "intended_unique_records_before_quality_injections": {
+    "projects": 90,
+    "rfi_log": 3320,
+    "change_orders": 1120,
+    "workflow_events": 11298,
+    "rfi_change_links": 680
+  },
+  "raw_file_rows_after_injections": {
+    "projects": 92,
+    "rfi_log": 3328,
+    "change_orders": 1125,
+    "workflow_events": 11308,
+    "rfi_change_links": 683
+  },
+  "known_issue_count": 97,
+  "known_issue_types": {
+    "Categorical standardization": 35,
+    "Missing critical value": 10,
+    "Missing value": 3,
+    "Invalid date sequence": 9,
+    "Invalid numeric value": 5,
+    "Invalid foreign key": 7,
+    "Exact duplicate": 28
+  }
+}

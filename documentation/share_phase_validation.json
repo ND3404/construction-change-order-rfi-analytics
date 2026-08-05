@@ -1,0 +1,63 @@
+{
+  "project": "Construction Change Order and RFI Analytics",
+  "project_code": "IP-DA-002",
+  "phase": "Share",
+  "status": "Passed",
+  "next_phase": "Act",
+  "files_created": 11,
+  "dashboard_images": 4,
+  "html_pages": 2,
+  "dashboard_workbook": "share/construction_change_order_rfi_share_dashboard.xlsx",
+  "controls": {
+    "synthetic_disclosure_present": true,
+    "causal_claims_authorized": false,
+    "production_model_claimed": false,
+    "project_1_modified": false
+  },
+  "files": {
+    "share/README_portfolio.md": {
+      "size_bytes": 826,
+      "sha256": "846260f251f1259d2ff5da06c2f92c6b31a97ce681b1de0ed294f285de14e911"
+    },
+    "share/START_HERE.md": {
+      "size_bytes": 1237,
+      "sha256": "dc2eaac8a8b8d20bfada0ea67294fc498d9d5b8119e4778025e00aeb44911846"
+    },
+    "share/assets/construction_change_order_rfi_executive_dashboard.png": {
+      "size_bytes": 261073,
+      "sha256": "d46979d6a8f87c0d224b2826367d0f734ce669d328bad305aaf99e488220d7fd"
+    },
+    "share/assets/construction_change_order_rfi_operational_dashboard.png": {
+      "size_bytes": 309074,
+      "sha256": "d3d18b6fc0b8dce7c77adb0285a1abd133477c091d80c33e7c8fe5f9b3e785ca"
+    },
+    "share/assets/construction_change_order_rfi_project_priority.png": {
+      "size_bytes": 147407,
+      "sha256": "839908e052bce243b3e2eae1a72d4cd3d706721c1cc7d52e8baab089a5f8ae27"
+    },
+    "share/assets/construction_change_order_rfi_workflow_analysis.png": {
+      "size_bytes": 263810,
+      "sha256": "aa79fadfdb8c2b409d8a9252fc5b9594024ff4e1f83ed4ff9e8682419030823e"
+    },
+    "share/construction_change_order_rfi_share_dashboard.xlsx": {
+      "size_bytes": 54391,
+      "sha256": "4b87249fc31bdcb39182b569a0f4d4c213751cf131f3143cba372f80011dceee"
+    },
+    "share/portfolio/in_project_case_study.html": {
+      "size_bytes": 5338,
+      "sha256": "56741ad9538bbca683263817e71510cd2bbd59b55513631408a0f7a1faa46ea8"
+    },
+    "share/portfolio/linkedin_and_github_copy.md": {
+      "size_bytes": 2822,
+      "sha256": "c10e4bb2a1ff0ce42fc2163f4cc7a3c282d0210fcd83055990b2f3461712bf7a"
+    },
+    "share/portfolio/personal_case_study.html": {
+      "size_bytes": 7330,
+      "sha256": "8ae23c7f6e7b1055b28993772ff2cdd9a58e6da950b51eae7a79e097d0e225b4"
+    },
+    "share/specifications/power_bi_tableau_build_spec.md": {
+      "size_bytes": 6658,
+      "sha256": "7ceb3e8c393d79ad26348f7bb74e87fc5317ec53b2bd2bc3a4648a0bf93e1468"
+    }
+  }
+}
