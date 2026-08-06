@@ -6,6 +6,20 @@ An end-to-end construction analytics portfolio case study examining RFI response
 
 > **Synthetic-data disclosure:** All projects, organizations, people, budgets, schedules, RFIs, change orders, workflow events, and performance records in this repository are synthetic. The data is fictional and must not be represented as actual client, company, employee, project, or industry-benchmark information.
 
+## Read the case study
+
+**[Construction Change Order and RFI Analytics — Case Study (PDF, 13 pages)](reports/Construction_Change_Order_and_RFI_Analytics_Case_Study.pdf)**  ·  [DOCX version](reports/Construction_Change_Order_and_RFI_Analytics_Case_Study.docx)
+
+The report is the fastest way to review this project end to end: business framing, data quality, analysis, dashboards, act plan and limitations, with a linked table of contents. Everything else in this repository is the supporting evidence.
+
+| Deliverable | Location |
+|---|---|
+| Case-study report | [`reports/`](reports) |
+| Dashboards | [Executive](assets/executive-dashboard.png) · [Operational](assets/operational-dashboard.png) · [Workflow](assets/workflow-analysis.png) · [Priority](assets/project-priority.png) |
+| Analytical outputs | [`analysis/tables/`](analysis/tables) |
+| SQL | [`sql/`](sql) |
+| Documentation | [`documentation/`](documentation) |
+
 ## Portfolio highlights
 
 - 90 synthetic construction projects
